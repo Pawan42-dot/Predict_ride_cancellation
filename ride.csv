@@ -1,0 +1,1001 @@
+ride_id,pickup_location,drop_location,booking_hour,day_of_week,ride_distance_km,driver_rating,customer_rating,surge_pricing,weather,cancelled
+1,Mall,Mall,6,Friday,38.45,4.1,3.2,1.0,Stormy,1
+2,Residential Area,Mall,10,Wednesday,30.78,3.3,4.7,1.3,Clear,1
+3,Railway Station,Mall,9,Thursday,34.35,4.4,4.0,2.3,Rainy,1
+4,Residential Area,Mall,8,Monday,24.52,4.8,3.0,2.5,Clear,1
+5,Residential Area,Residential Area,13,Friday,33.58,4.5,4.6,2.6,Clear,0
+6,Airport,Residential Area,12,Friday,31.59,3.2,5.0,1.5,Stormy,0
+7,Railway Station,Airport,1,Monday,15.7,4.8,4.2,1.6,Stormy,0
+8,Railway Station,Downtown,2,Friday,22.53,4.6,4.0,2.0,Rainy,1
+9,Railway Station,Mall,6,Monday,32.39,3.3,4.8,1.1,Rainy,1
+10,Residential Area,Airport,20,Thursday,2.8,3.1,4.9,2.2,Clear,1
+11,Mall,Downtown,17,Wednesday,32.52,4.1,4.5,3.0,Foggy,1
+12,Railway Station,Railway Station,2,Monday,7.94,3.3,3.9,1.7,Clear,1
+13,Residential Area,Residential Area,9,Tuesday,21.07,4.7,4.2,2.5,Rainy,1
+14,Airport,Downtown,21,Monday,32.52,3.7,4.4,2.0,Foggy,1
+15,Mall,Railway Station,6,Friday,10.9,4.8,3.4,1.3,Stormy,1
+16,Airport,Downtown,8,Sunday,10.59,4.1,3.9,2.2,Rainy,1
+17,Mall,Residential Area,16,Sunday,16.71,3.4,4.7,1.6,Rainy,1
+18,Residential Area,Residential Area,10,Thursday,35.89,3.3,4.3,1.1,Foggy,1
+19,Downtown,Airport,6,Saturday,1.02,4.2,3.8,2.3,Rainy,0
+20,Mall,Mall,23,Thursday,36.15,4.5,4.3,2.7,Rainy,1
+21,Airport,Downtown,13,Saturday,7.0,4.6,3.2,1.7,Rainy,0
+22,Residential Area,Downtown,18,Sunday,39.61,3.6,3.8,1.8,Rainy,0
+23,Mall,Railway Station,3,Sunday,38.24,3.4,4.6,2.8,Rainy,1
+24,Downtown,Residential Area,5,Monday,20.29,3.0,3.4,2.6,Rainy,1
+25,Downtown,Downtown,9,Wednesday,21.0,4.4,3.4,2.4,Rainy,0
+26,Railway Station,Residential Area,6,Tuesday,19.78,3.2,4.9,1.5,Rainy,1
+27,Railway Station,Downtown,12,Thursday,25.78,3.8,3.4,2.8,Stormy,1
+28,Airport,Airport,13,Friday,4.54,4.2,3.5,1.3,Rainy,1
+29,Mall,Mall,3,Saturday,2.27,4.9,4.9,2.3,Stormy,0
+30,Mall,Downtown,7,Friday,3.25,3.6,4.5,1.1,Stormy,1
+31,Railway Station,Residential Area,4,Wednesday,18.33,3.5,4.4,2.3,Clear,0
+32,Mall,Airport,0,Saturday,11.75,4.3,4.7,1.6,Clear,0
+33,Mall,Downtown,3,Thursday,25.26,4.2,3.2,1.9,Stormy,0
+34,Downtown,Railway Station,2,Monday,39.71,3.7,4.4,1.7,Stormy,1
+35,Railway Station,Mall,8,Friday,16.07,4.9,4.0,1.3,Rainy,0
+36,Residential Area,Downtown,7,Wednesday,23.38,4.7,4.7,2.2,Clear,1
+37,Railway Station,Airport,0,Thursday,17.21,3.4,4.0,2.8,Foggy,1
+38,Residential Area,Railway Station,5,Sunday,34.04,3.5,4.2,2.9,Clear,0
+39,Downtown,Airport,8,Sunday,36.19,4.0,4.0,1.4,Stormy,1
+40,Airport,Airport,6,Thursday,35.22,4.5,4.0,2.4,Stormy,0
+41,Mall,Railway Station,3,Thursday,39.0,3.1,4.5,2.3,Rainy,1
+42,Downtown,Airport,12,Thursday,2.07,4.4,4.3,1.7,Rainy,0
+43,Mall,Railway Station,16,Saturday,33.75,4.3,4.3,1.0,Clear,1
+44,Airport,Downtown,1,Thursday,30.32,3.5,3.9,2.4,Rainy,1
+45,Airport,Railway Station,4,Friday,9.92,4.4,4.1,2.9,Foggy,1
+46,Downtown,Railway Station,11,Wednesday,38.3,4.9,4.5,2.3,Foggy,1
+47,Airport,Mall,20,Saturday,6.78,3.1,4.7,1.9,Rainy,1
+48,Residential Area,Railway Station,7,Thursday,27.5,3.6,4.4,2.1,Foggy,1
+49,Airport,Railway Station,5,Tuesday,9.77,3.9,4.8,1.4,Foggy,0
+50,Mall,Downtown,7,Tuesday,17.82,4.8,4.6,2.5,Clear,1
+51,Mall,Mall,17,Wednesday,29.05,4.9,4.1,2.5,Foggy,1
+52,Mall,Residential Area,2,Sunday,22.97,3.9,4.3,1.3,Stormy,1
+53,Mall,Downtown,21,Monday,17.67,4.5,4.9,2.8,Stormy,1
+54,Residential Area,Downtown,11,Monday,13.73,4.1,4.2,1.5,Clear,0
+55,Railway Station,Residential Area,2,Sunday,33.75,4.1,4.6,3.0,Rainy,1
+56,Downtown,Railway Station,21,Saturday,6.61,3.6,4.4,1.8,Clear,1
+57,Mall,Airport,5,Saturday,17.77,3.4,4.1,1.4,Rainy,0
+58,Airport,Mall,1,Saturday,36.25,3.6,3.5,1.7,Rainy,1
+59,Mall,Airport,22,Monday,33.99,4.1,3.9,1.9,Rainy,1
+60,Airport,Residential Area,11,Tuesday,16.64,3.1,4.9,1.1,Rainy,1
+61,Airport,Downtown,1,Monday,30.76,4.8,4.3,2.2,Rainy,0
+62,Mall,Downtown,5,Friday,33.1,3.3,4.1,2.2,Clear,1
+63,Residential Area,Mall,16,Thursday,35.67,3.4,4.9,2.5,Rainy,1
+64,Airport,Downtown,2,Saturday,22.24,4.0,4.2,1.1,Foggy,0
+65,Airport,Downtown,1,Tuesday,8.97,4.4,4.1,2.1,Foggy,0
+66,Mall,Mall,22,Wednesday,10.96,3.2,4.5,1.1,Rainy,1
+67,Airport,Mall,19,Wednesday,12.53,3.6,4.4,2.4,Foggy,1
+68,Airport,Residential Area,7,Thursday,24.16,4.9,3.4,1.1,Stormy,0
+69,Mall,Downtown,21,Tuesday,2.28,3.5,3.9,2.8,Clear,0
+70,Mall,Downtown,11,Monday,25.81,3.6,3.9,2.4,Clear,0
+71,Downtown,Residential Area,3,Monday,15.21,4.7,3.8,2.0,Rainy,1
+72,Residential Area,Railway Station,4,Friday,12.51,3.1,4.0,1.9,Rainy,1
+73,Residential Area,Railway Station,12,Friday,35.3,3.9,3.8,1.3,Stormy,1
+74,Airport,Railway Station,14,Monday,18.94,3.8,3.4,1.6,Rainy,1
+75,Residential Area,Residential Area,22,Wednesday,4.71,3.6,3.8,2.7,Foggy,1
+76,Airport,Downtown,15,Saturday,33.24,3.6,3.1,2.8,Stormy,0
+77,Downtown,Residential Area,9,Wednesday,2.86,3.2,4.2,1.0,Foggy,0
+78,Mall,Residential Area,22,Friday,29.34,3.6,4.7,2.2,Clear,1
+79,Mall,Railway Station,15,Thursday,31.18,3.1,4.5,2.4,Foggy,0
+80,Mall,Airport,11,Monday,14.75,4.6,3.7,2.2,Clear,1
+81,Residential Area,Downtown,16,Friday,33.17,3.8,3.2,1.2,Foggy,0
+82,Downtown,Railway Station,15,Friday,21.11,3.9,3.4,1.4,Clear,0
+83,Residential Area,Airport,11,Saturday,19.07,4.8,4.1,1.5,Rainy,1
+84,Residential Area,Airport,7,Monday,2.77,4.3,3.4,2.7,Foggy,1
+85,Downtown,Mall,19,Saturday,12.31,3.0,4.1,1.9,Clear,1
+86,Downtown,Downtown,2,Monday,37.31,4.9,3.5,2.0,Foggy,1
+87,Downtown,Airport,15,Saturday,16.28,3.5,4.7,2.9,Stormy,1
+88,Downtown,Railway Station,12,Wednesday,22.32,3.2,3.8,2.3,Rainy,1
+89,Mall,Mall,22,Thursday,21.75,4.5,3.5,2.8,Clear,0
+90,Railway Station,Downtown,18,Thursday,24.03,4.0,4.6,1.9,Stormy,1
+91,Railway Station,Residential Area,7,Monday,3.39,3.9,3.7,1.3,Foggy,0
+92,Downtown,Railway Station,21,Tuesday,15.12,3.5,3.2,2.9,Stormy,1
+93,Railway Station,Airport,4,Sunday,29.2,4.1,4.1,1.9,Foggy,0
+94,Railway Station,Airport,19,Friday,8.82,3.5,4.2,1.4,Rainy,1
+95,Downtown,Railway Station,7,Friday,8.94,4.8,4.4,1.6,Stormy,1
+96,Railway Station,Airport,23,Monday,1.39,3.4,3.5,1.1,Rainy,1
+97,Residential Area,Mall,11,Saturday,18.06,4.8,3.9,1.9,Clear,0
+98,Airport,Downtown,0,Tuesday,35.43,4.1,3.6,2.7,Foggy,1
+99,Airport,Mall,20,Wednesday,3.02,4.7,3.2,2.9,Foggy,1
+100,Downtown,Airport,19,Saturday,8.45,4.4,4.8,2.9,Rainy,0
+101,Mall,Residential Area,5,Saturday,13.09,4.4,4.5,1.3,Rainy,1
+102,Downtown,Downtown,21,Monday,29.54,3.6,3.6,1.8,Clear,1
+103,Mall,Downtown,17,Monday,25.98,3.5,4.2,1.1,Stormy,1
+104,Airport,Railway Station,7,Friday,17.22,3.4,3.4,2.7,Foggy,0
+105,Downtown,Railway Station,6,Monday,30.6,4.7,4.8,1.7,Foggy,1
+106,Residential Area,Residential Area,0,Monday,24.78,4.6,3.2,2.3,Clear,0
+107,Railway Station,Downtown,20,Monday,35.95,3.9,3.0,2.4,Clear,0
+108,Mall,Residential Area,15,Friday,32.9,3.3,4.0,1.9,Rainy,1
+109,Railway Station,Railway Station,11,Wednesday,10.86,3.8,4.2,1.6,Rainy,0
+110,Railway Station,Railway Station,5,Wednesday,11.59,4.2,4.2,2.9,Stormy,0
+111,Downtown,Downtown,19,Sunday,5.89,3.9,3.1,2.9,Clear,1
+112,Railway Station,Mall,1,Sunday,14.14,4.6,3.6,1.6,Stormy,1
+113,Residential Area,Airport,13,Monday,39.98,5.0,4.0,2.0,Clear,1
+114,Railway Station,Railway Station,3,Sunday,16.82,3.4,3.4,2.9,Foggy,1
+115,Downtown,Railway Station,0,Friday,9.6,3.9,4.7,1.0,Clear,0
+116,Residential Area,Mall,22,Wednesday,30.74,3.9,3.2,1.8,Clear,1
+117,Airport,Mall,17,Saturday,22.16,3.6,4.0,1.2,Foggy,1
+118,Railway Station,Residential Area,12,Wednesday,6.83,3.4,4.4,2.0,Clear,0
+119,Downtown,Residential Area,1,Wednesday,15.85,3.1,3.5,1.0,Stormy,0
+120,Airport,Airport,8,Friday,17.16,4.8,4.2,1.8,Rainy,1
+121,Airport,Airport,20,Sunday,30.4,3.8,4.7,1.4,Rainy,1
+122,Mall,Downtown,1,Saturday,1.81,4.0,3.4,2.1,Stormy,1
+123,Residential Area,Residential Area,8,Friday,11.49,4.8,4.8,3.0,Foggy,0
+124,Railway Station,Railway Station,0,Monday,21.19,4.6,4.1,2.6,Clear,0
+125,Downtown,Residential Area,10,Thursday,11.49,3.3,3.6,2.7,Stormy,1
+126,Mall,Railway Station,2,Wednesday,25.51,4.1,3.9,2.3,Rainy,1
+127,Residential Area,Mall,19,Thursday,19.79,3.9,3.6,1.1,Rainy,1
+128,Mall,Residential Area,22,Friday,15.11,4.6,4.5,1.4,Stormy,1
+129,Residential Area,Mall,3,Friday,38.02,4.4,4.6,2.9,Rainy,0
+130,Residential Area,Airport,17,Friday,25.65,4.4,4.7,1.7,Stormy,1
+131,Railway Station,Airport,22,Thursday,6.07,3.7,5.0,1.2,Rainy,0
+132,Residential Area,Downtown,5,Friday,22.84,4.6,4.6,2.4,Stormy,1
+133,Mall,Residential Area,2,Monday,31.45,3.1,4.2,1.6,Clear,1
+134,Residential Area,Mall,21,Friday,28.63,3.3,3.7,1.5,Clear,1
+135,Railway Station,Railway Station,10,Tuesday,7.71,3.7,4.1,3.0,Clear,1
+136,Railway Station,Airport,14,Sunday,38.92,3.2,3.1,2.7,Clear,0
+137,Mall,Airport,21,Thursday,18.5,3.5,4.5,1.8,Rainy,0
+138,Airport,Railway Station,4,Tuesday,7.2,4.7,3.9,3.0,Foggy,0
+139,Airport,Mall,19,Friday,8.03,4.9,3.0,2.3,Stormy,1
+140,Residential Area,Mall,9,Monday,4.83,3.6,3.1,2.5,Foggy,1
+141,Downtown,Residential Area,11,Wednesday,32.34,3.5,3.8,1.1,Rainy,0
+142,Residential Area,Residential Area,14,Saturday,5.76,3.6,4.2,1.2,Rainy,0
+143,Mall,Downtown,16,Sunday,5.88,3.6,3.9,2.3,Foggy,1
+144,Mall,Airport,9,Saturday,34.17,3.1,4.2,2.8,Foggy,1
+145,Mall,Residential Area,5,Friday,14.44,4.9,4.0,2.2,Rainy,1
+146,Mall,Mall,17,Sunday,2.2,3.4,4.3,1.3,Rainy,0
+147,Mall,Railway Station,12,Sunday,3.02,3.8,3.4,1.2,Stormy,0
+148,Railway Station,Mall,2,Monday,6.54,3.0,3.2,2.7,Clear,1
+149,Airport,Airport,23,Sunday,9.32,4.7,4.2,1.3,Clear,0
+150,Mall,Mall,9,Thursday,26.94,4.5,4.0,2.0,Stormy,1
+151,Downtown,Downtown,13,Tuesday,7.14,4.9,3.1,1.1,Foggy,0
+152,Downtown,Airport,5,Tuesday,5.64,4.6,3.8,1.2,Rainy,1
+153,Downtown,Railway Station,2,Tuesday,30.82,3.6,3.2,2.3,Foggy,1
+154,Downtown,Downtown,15,Thursday,27.17,3.5,4.1,2.4,Clear,0
+155,Railway Station,Airport,6,Saturday,17.98,4.4,3.8,1.7,Clear,0
+156,Downtown,Railway Station,19,Monday,22.42,3.7,4.2,1.4,Foggy,1
+157,Mall,Downtown,13,Sunday,13.17,4.1,4.6,2.6,Clear,1
+158,Residential Area,Downtown,8,Thursday,19.82,3.0,3.6,1.4,Rainy,1
+159,Downtown,Airport,14,Tuesday,20.76,3.1,4.9,2.1,Stormy,0
+160,Railway Station,Residential Area,20,Friday,16.1,4.1,4.1,2.9,Foggy,1
+161,Railway Station,Downtown,2,Wednesday,36.36,4.1,4.2,1.3,Rainy,1
+162,Downtown,Downtown,1,Sunday,1.63,4.5,4.4,2.9,Rainy,0
+163,Residential Area,Railway Station,1,Thursday,31.5,3.3,4.3,1.4,Clear,1
+164,Downtown,Mall,2,Thursday,5.85,4.0,4.0,2.1,Rainy,1
+165,Railway Station,Airport,17,Monday,32.1,3.4,3.9,1.8,Foggy,1
+166,Airport,Airport,13,Monday,25.02,3.2,3.1,2.9,Rainy,1
+167,Mall,Residential Area,19,Thursday,33.89,3.8,3.0,1.5,Stormy,1
+168,Railway Station,Residential Area,17,Tuesday,4.8,3.3,3.7,1.8,Rainy,1
+169,Downtown,Airport,9,Wednesday,22.8,3.4,3.7,3.0,Rainy,1
+170,Mall,Residential Area,1,Sunday,20.54,3.6,3.8,2.1,Stormy,1
+171,Downtown,Railway Station,21,Monday,28.54,3.5,3.3,2.0,Rainy,1
+172,Downtown,Airport,0,Sunday,21.84,3.2,4.5,1.5,Rainy,1
+173,Airport,Residential Area,3,Tuesday,22.09,3.2,4.7,2.4,Clear,1
+174,Mall,Airport,13,Sunday,17.75,3.4,4.9,1.0,Foggy,1
+175,Mall,Mall,0,Friday,13.04,3.1,4.0,1.1,Clear,0
+176,Airport,Downtown,13,Monday,19.81,4.3,4.4,2.2,Foggy,0
+177,Railway Station,Airport,15,Tuesday,5.62,3.6,4.7,1.7,Stormy,1
+178,Downtown,Downtown,21,Tuesday,38.5,3.6,3.8,2.9,Stormy,1
+179,Residential Area,Residential Area,13,Wednesday,28.86,3.7,3.6,2.8,Stormy,0
+180,Downtown,Downtown,19,Wednesday,38.15,4.3,4.9,2.4,Foggy,1
+181,Downtown,Airport,2,Friday,9.84,4.7,4.0,2.6,Foggy,1
+182,Railway Station,Mall,2,Tuesday,35.29,4.5,4.0,2.3,Foggy,0
+183,Downtown,Residential Area,8,Saturday,32.54,4.5,3.4,1.3,Stormy,1
+184,Airport,Airport,5,Tuesday,27.41,4.0,3.2,2.5,Foggy,1
+185,Airport,Residential Area,12,Wednesday,25.38,4.4,4.7,1.4,Rainy,0
+186,Mall,Railway Station,20,Saturday,13.35,4.1,4.2,1.6,Clear,0
+187,Residential Area,Downtown,1,Monday,32.84,3.4,3.7,2.6,Stormy,0
+188,Downtown,Railway Station,7,Monday,20.56,3.4,3.4,2.1,Clear,1
+189,Downtown,Airport,20,Sunday,3.76,3.6,4.1,2.7,Rainy,1
+190,Railway Station,Mall,1,Thursday,13.2,4.8,4.2,1.4,Foggy,0
+191,Airport,Residential Area,3,Wednesday,37.48,4.1,3.4,2.2,Clear,1
+192,Residential Area,Downtown,14,Thursday,34.18,4.5,4.7,1.2,Rainy,1
+193,Mall,Residential Area,3,Saturday,39.29,3.7,3.2,2.3,Rainy,1
+194,Airport,Airport,12,Wednesday,25.49,3.8,3.7,2.5,Clear,0
+195,Mall,Residential Area,11,Friday,10.65,3.3,4.4,2.2,Stormy,0
+196,Railway Station,Downtown,12,Tuesday,7.35,3.3,3.5,1.5,Clear,0
+197,Railway Station,Airport,13,Friday,8.29,4.7,4.7,1.1,Stormy,1
+198,Downtown,Residential Area,19,Saturday,1.77,4.2,4.5,1.2,Foggy,0
+199,Residential Area,Mall,17,Wednesday,16.24,3.7,4.6,2.2,Stormy,1
+200,Mall,Airport,5,Saturday,8.47,4.6,3.2,2.9,Foggy,1
+201,Airport,Airport,10,Tuesday,17.05,3.5,3.3,1.4,Clear,0
+202,Railway Station,Mall,1,Monday,37.46,5.0,3.6,2.5,Foggy,1
+203,Downtown,Railway Station,22,Monday,17.79,3.7,4.0,2.7,Rainy,1
+204,Downtown,Downtown,18,Saturday,35.24,3.7,4.5,2.0,Foggy,1
+205,Mall,Railway Station,18,Thursday,24.61,3.6,4.7,2.3,Stormy,1
+206,Railway Station,Residential Area,4,Wednesday,10.64,3.2,4.4,2.6,Stormy,1
+207,Residential Area,Mall,18,Wednesday,14.88,3.2,4.9,1.5,Stormy,1
+208,Railway Station,Railway Station,1,Monday,4.27,4.3,4.5,1.6,Foggy,0
+209,Mall,Airport,9,Sunday,14.01,4.8,3.6,1.0,Stormy,0
+210,Mall,Residential Area,1,Friday,27.42,4.6,3.5,2.9,Stormy,1
+211,Railway Station,Residential Area,10,Sunday,3.81,3.3,4.4,2.8,Rainy,0
+212,Mall,Railway Station,17,Tuesday,9.01,4.1,3.4,2.5,Foggy,1
+213,Railway Station,Railway Station,23,Friday,15.88,3.2,3.2,1.2,Rainy,1
+214,Airport,Mall,14,Friday,39.3,3.1,4.1,1.9,Stormy,0
+215,Railway Station,Downtown,8,Saturday,31.61,4.3,4.6,1.2,Stormy,0
+216,Railway Station,Railway Station,22,Monday,29.61,4.1,3.2,1.0,Stormy,0
+217,Mall,Railway Station,18,Sunday,5.53,3.2,4.6,2.2,Foggy,0
+218,Mall,Airport,8,Sunday,31.46,3.1,4.6,2.9,Clear,0
+219,Downtown,Residential Area,2,Monday,31.63,5.0,4.0,2.8,Stormy,1
+220,Downtown,Downtown,20,Sunday,24.44,3.1,3.1,2.4,Stormy,1
+221,Airport,Airport,8,Monday,39.62,3.9,3.3,1.2,Stormy,1
+222,Downtown,Mall,13,Saturday,13.68,4.0,4.4,1.5,Stormy,1
+223,Railway Station,Mall,18,Thursday,37.71,3.2,4.4,1.6,Foggy,1
+224,Mall,Railway Station,6,Friday,36.67,3.3,4.8,2.5,Clear,1
+225,Downtown,Railway Station,15,Saturday,1.45,3.7,4.2,2.6,Clear,0
+226,Downtown,Mall,15,Wednesday,18.55,4.5,3.2,1.8,Clear,0
+227,Airport,Railway Station,0,Tuesday,39.11,4.0,3.2,1.8,Stormy,1
+228,Airport,Downtown,3,Thursday,5.02,4.3,4.4,1.1,Stormy,0
+229,Railway Station,Railway Station,3,Wednesday,22.36,5.0,3.4,1.6,Clear,0
+230,Mall,Residential Area,6,Friday,39.18,4.5,3.7,1.9,Clear,1
+231,Airport,Railway Station,7,Sunday,22.66,3.9,4.0,1.2,Stormy,1
+232,Downtown,Airport,16,Monday,8.4,3.9,3.0,1.9,Stormy,0
+233,Mall,Downtown,4,Friday,23.71,4.2,3.5,2.7,Rainy,0
+234,Mall,Airport,6,Saturday,8.97,4.3,3.8,2.2,Rainy,1
+235,Downtown,Airport,19,Tuesday,21.27,4.0,3.6,1.2,Rainy,0
+236,Airport,Residential Area,19,Saturday,3.89,4.3,3.3,1.4,Clear,0
+237,Downtown,Downtown,3,Thursday,24.61,3.0,4.5,1.9,Foggy,1
+238,Mall,Downtown,5,Thursday,21.15,3.9,4.6,1.7,Stormy,1
+239,Residential Area,Downtown,6,Tuesday,29.87,3.6,3.5,1.7,Rainy,0
+240,Residential Area,Downtown,17,Wednesday,25.6,3.3,4.5,2.1,Foggy,1
+241,Railway Station,Downtown,4,Wednesday,22.43,3.2,3.8,2.2,Stormy,1
+242,Downtown,Residential Area,19,Thursday,27.9,4.2,4.0,2.6,Foggy,0
+243,Downtown,Railway Station,2,Thursday,6.61,4.0,4.7,1.7,Clear,0
+244,Railway Station,Airport,6,Sunday,24.22,3.5,4.5,2.6,Clear,1
+245,Railway Station,Downtown,21,Monday,7.71,3.9,4.6,1.7,Clear,0
+246,Railway Station,Railway Station,13,Sunday,37.1,4.0,3.3,1.1,Rainy,1
+247,Mall,Railway Station,6,Sunday,3.67,3.4,3.1,2.1,Stormy,1
+248,Downtown,Airport,4,Wednesday,17.78,4.3,4.8,2.2,Clear,0
+249,Mall,Residential Area,21,Tuesday,28.14,4.6,3.8,2.9,Rainy,1
+250,Railway Station,Mall,4,Wednesday,18.86,4.6,3.6,2.5,Rainy,0
+251,Downtown,Mall,22,Monday,4.59,4.2,4.4,2.8,Rainy,1
+252,Mall,Railway Station,1,Saturday,22.58,4.0,4.7,2.8,Rainy,1
+253,Mall,Airport,20,Thursday,26.02,3.1,4.7,2.2,Clear,1
+254,Railway Station,Mall,21,Thursday,28.45,3.6,3.6,2.1,Rainy,0
+255,Downtown,Railway Station,5,Monday,15.56,3.2,4.7,2.1,Clear,1
+256,Railway Station,Residential Area,14,Sunday,22.98,4.9,3.1,3.0,Clear,1
+257,Downtown,Mall,20,Tuesday,18.58,3.3,3.1,2.5,Rainy,0
+258,Residential Area,Railway Station,9,Thursday,27.21,3.3,4.2,1.2,Clear,1
+259,Airport,Railway Station,22,Friday,23.76,4.8,3.1,2.6,Stormy,1
+260,Airport,Downtown,23,Sunday,21.5,4.9,3.6,1.3,Stormy,1
+261,Airport,Residential Area,6,Thursday,10.73,4.5,4.3,1.9,Foggy,0
+262,Railway Station,Downtown,4,Friday,1.08,3.0,3.7,1.4,Stormy,1
+263,Residential Area,Airport,0,Monday,7.79,3.0,3.4,2.4,Clear,1
+264,Downtown,Downtown,12,Monday,5.57,3.8,3.6,2.8,Clear,1
+265,Mall,Downtown,20,Sunday,18.51,3.3,3.9,1.6,Stormy,0
+266,Downtown,Mall,17,Thursday,24.88,3.0,4.0,1.2,Rainy,1
+267,Mall,Railway Station,12,Wednesday,9.31,3.9,4.6,1.6,Rainy,0
+268,Downtown,Residential Area,20,Friday,37.62,4.9,4.5,2.3,Clear,1
+269,Residential Area,Downtown,20,Tuesday,1.26,3.6,3.9,1.7,Rainy,1
+270,Mall,Residential Area,17,Thursday,31.12,4.3,4.7,1.6,Foggy,0
+271,Railway Station,Downtown,4,Tuesday,25.38,4.3,3.2,1.4,Foggy,1
+272,Downtown,Airport,12,Thursday,15.57,3.5,3.5,2.0,Stormy,1
+273,Downtown,Downtown,3,Wednesday,2.97,4.3,4.7,1.6,Stormy,0
+274,Mall,Mall,16,Wednesday,25.47,3.4,3.8,2.5,Rainy,1
+275,Railway Station,Railway Station,2,Sunday,16.04,3.2,5.0,1.2,Clear,1
+276,Railway Station,Airport,16,Sunday,37.51,4.4,3.9,2.3,Stormy,0
+277,Residential Area,Downtown,10,Wednesday,22.14,3.2,4.6,1.5,Foggy,0
+278,Railway Station,Residential Area,20,Saturday,37.65,5.0,3.8,2.0,Stormy,1
+279,Railway Station,Airport,19,Wednesday,9.6,3.4,3.8,1.6,Stormy,1
+280,Railway Station,Airport,22,Monday,29.3,4.2,3.8,2.4,Foggy,1
+281,Airport,Downtown,20,Monday,25.07,3.8,4.4,2.9,Clear,0
+282,Residential Area,Airport,3,Saturday,29.84,3.3,4.1,2.8,Stormy,0
+283,Downtown,Residential Area,1,Friday,9.37,3.1,4.9,2.2,Stormy,0
+284,Mall,Airport,19,Tuesday,26.93,4.2,3.5,1.9,Stormy,1
+285,Downtown,Residential Area,15,Thursday,20.42,4.6,3.2,2.6,Rainy,1
+286,Residential Area,Downtown,17,Thursday,29.97,4.7,3.8,2.4,Stormy,0
+287,Mall,Railway Station,7,Saturday,13.75,4.0,4.2,1.4,Foggy,0
+288,Residential Area,Airport,2,Monday,35.71,4.6,4.7,2.6,Clear,0
+289,Railway Station,Railway Station,8,Sunday,4.29,4.3,3.7,1.9,Clear,0
+290,Mall,Residential Area,19,Thursday,32.48,4.4,4.3,1.4,Foggy,1
+291,Railway Station,Airport,5,Monday,34.59,4.0,3.7,1.6,Rainy,0
+292,Downtown,Mall,9,Friday,32.87,4.3,4.2,1.5,Foggy,0
+293,Downtown,Railway Station,20,Tuesday,21.0,4.6,4.8,2.0,Clear,0
+294,Mall,Airport,9,Friday,18.1,3.8,3.5,1.5,Foggy,0
+295,Mall,Railway Station,12,Saturday,39.85,4.6,3.8,1.2,Rainy,1
+296,Residential Area,Airport,16,Wednesday,9.94,4.2,5.0,1.2,Clear,0
+297,Residential Area,Downtown,8,Wednesday,22.33,3.3,4.7,2.2,Rainy,0
+298,Railway Station,Railway Station,16,Wednesday,27.16,3.0,4.1,2.5,Foggy,1
+299,Mall,Mall,23,Friday,28.33,3.7,4.0,1.6,Stormy,0
+300,Downtown,Mall,8,Thursday,8.96,4.1,3.6,1.1,Foggy,0
+301,Residential Area,Residential Area,8,Tuesday,26.51,4.7,4.0,1.3,Rainy,0
+302,Residential Area,Airport,0,Wednesday,32.92,3.3,4.7,2.8,Foggy,1
+303,Downtown,Railway Station,1,Saturday,2.95,4.6,4.4,2.0,Stormy,1
+304,Residential Area,Residential Area,15,Saturday,36.55,4.7,3.6,1.9,Rainy,1
+305,Railway Station,Railway Station,0,Wednesday,2.15,3.3,3.4,1.1,Foggy,1
+306,Mall,Airport,9,Wednesday,14.88,4.7,3.5,2.5,Rainy,1
+307,Downtown,Mall,17,Tuesday,1.62,5.0,3.3,2.1,Rainy,1
+308,Mall,Downtown,7,Wednesday,4.01,4.5,3.2,1.4,Clear,0
+309,Residential Area,Mall,20,Tuesday,36.54,4.6,3.8,1.2,Clear,0
+310,Residential Area,Residential Area,10,Saturday,14.84,5.0,3.2,1.8,Rainy,1
+311,Downtown,Downtown,22,Wednesday,17.57,4.2,3.3,2.7,Foggy,1
+312,Railway Station,Residential Area,1,Friday,9.4,3.6,4.1,2.7,Foggy,1
+313,Airport,Airport,7,Sunday,24.29,4.7,3.3,2.2,Foggy,1
+314,Downtown,Downtown,21,Friday,24.2,4.2,3.1,2.5,Stormy,0
+315,Airport,Residential Area,7,Saturday,15.52,4.2,3.6,1.2,Rainy,0
+316,Airport,Airport,16,Tuesday,13.99,3.5,3.4,2.2,Rainy,1
+317,Railway Station,Mall,14,Friday,35.51,4.5,4.0,2.3,Stormy,1
+318,Airport,Airport,16,Tuesday,15.95,3.2,3.2,1.4,Rainy,1
+319,Airport,Railway Station,22,Friday,20.25,4.8,4.5,2.8,Rainy,1
+320,Railway Station,Airport,23,Friday,12.05,3.7,4.8,1.4,Stormy,0
+321,Airport,Airport,12,Tuesday,31.68,3.3,4.5,1.6,Clear,1
+322,Airport,Railway Station,18,Thursday,16.5,3.9,4.1,2.2,Rainy,1
+323,Airport,Residential Area,4,Friday,21.03,3.1,4.7,2.3,Stormy,0
+324,Downtown,Residential Area,11,Wednesday,10.88,4.4,4.4,2.4,Foggy,1
+325,Downtown,Airport,0,Sunday,39.52,4.8,3.0,1.2,Clear,1
+326,Downtown,Railway Station,22,Saturday,12.37,4.7,3.8,2.7,Foggy,1
+327,Railway Station,Railway Station,4,Thursday,31.06,3.3,4.7,2.1,Rainy,1
+328,Residential Area,Mall,7,Tuesday,17.67,3.3,3.7,1.9,Clear,0
+329,Airport,Residential Area,12,Thursday,9.04,4.6,3.1,3.0,Stormy,0
+330,Airport,Downtown,7,Monday,32.19,4.8,4.5,2.5,Rainy,1
+331,Railway Station,Residential Area,22,Monday,14.01,3.9,4.6,1.2,Stormy,0
+332,Airport,Residential Area,10,Friday,34.74,4.0,3.3,2.5,Clear,1
+333,Downtown,Mall,0,Friday,36.7,3.6,4.1,1.2,Foggy,1
+334,Residential Area,Downtown,12,Wednesday,34.53,4.8,3.4,1.1,Rainy,1
+335,Mall,Mall,18,Sunday,2.37,4.3,4.4,1.8,Rainy,1
+336,Airport,Downtown,23,Saturday,31.71,3.6,3.5,3.0,Stormy,0
+337,Downtown,Airport,2,Thursday,17.04,3.6,3.6,1.3,Clear,0
+338,Mall,Downtown,23,Monday,35.08,4.8,4.7,2.3,Stormy,0
+339,Residential Area,Mall,16,Friday,25.88,3.0,4.0,1.3,Clear,0
+340,Mall,Residential Area,4,Saturday,33.51,3.6,4.3,2.4,Rainy,1
+341,Downtown,Downtown,19,Thursday,20.48,4.1,3.8,2.0,Clear,0
+342,Mall,Downtown,20,Friday,21.87,3.3,3.6,2.4,Rainy,1
+343,Railway Station,Railway Station,7,Friday,6.63,3.2,4.3,1.4,Clear,1
+344,Mall,Residential Area,13,Monday,31.58,4.6,3.3,2.5,Foggy,0
+345,Airport,Airport,3,Monday,17.36,4.8,3.7,3.0,Clear,0
+346,Airport,Mall,10,Friday,20.5,4.6,3.4,2.3,Foggy,1
+347,Railway Station,Airport,19,Tuesday,31.62,4.8,4.4,2.0,Clear,1
+348,Downtown,Residential Area,14,Friday,24.35,4.1,4.9,2.8,Clear,1
+349,Airport,Downtown,18,Saturday,8.84,4.6,5.0,1.0,Stormy,0
+350,Residential Area,Downtown,6,Friday,24.02,3.8,3.9,2.5,Stormy,0
+351,Airport,Residential Area,18,Wednesday,16.9,4.3,3.5,2.8,Rainy,0
+352,Airport,Downtown,18,Sunday,19.31,5.0,3.9,1.1,Stormy,0
+353,Downtown,Downtown,10,Wednesday,2.1,3.5,4.7,1.9,Clear,0
+354,Mall,Downtown,4,Wednesday,9.19,3.8,3.4,1.4,Stormy,1
+355,Airport,Mall,4,Tuesday,11.96,4.0,4.9,2.1,Clear,0
+356,Railway Station,Mall,21,Tuesday,28.81,3.3,3.7,2.3,Foggy,1
+357,Mall,Railway Station,7,Friday,1.45,3.2,5.0,1.6,Clear,0
+358,Residential Area,Airport,9,Wednesday,16.94,4.7,4.7,1.9,Rainy,0
+359,Downtown,Residential Area,5,Tuesday,37.04,5.0,4.6,1.6,Foggy,0
+360,Residential Area,Residential Area,14,Monday,5.36,3.8,3.6,1.7,Rainy,0
+361,Mall,Residential Area,15,Friday,21.14,3.2,3.0,1.3,Rainy,1
+362,Mall,Railway Station,16,Saturday,31.67,3.1,3.8,2.8,Rainy,0
+363,Mall,Mall,7,Sunday,37.76,4.8,3.6,1.0,Stormy,1
+364,Residential Area,Railway Station,7,Thursday,30.12,3.9,3.1,2.8,Rainy,0
+365,Mall,Residential Area,8,Friday,29.1,3.6,4.0,2.1,Foggy,0
+366,Residential Area,Airport,1,Thursday,33.23,4.0,3.8,1.7,Clear,1
+367,Mall,Downtown,14,Wednesday,18.4,3.6,4.3,2.4,Rainy,0
+368,Railway Station,Mall,17,Sunday,32.43,4.0,4.2,2.0,Foggy,1
+369,Mall,Mall,2,Thursday,1.31,4.7,3.2,2.0,Rainy,1
+370,Residential Area,Railway Station,16,Wednesday,37.06,4.2,5.0,1.2,Clear,0
+371,Airport,Mall,3,Monday,18.29,4.4,3.4,1.8,Foggy,0
+372,Mall,Residential Area,3,Thursday,22.58,3.7,3.9,1.5,Foggy,1
+373,Airport,Residential Area,13,Sunday,10.94,4.5,4.0,1.0,Clear,0
+374,Railway Station,Railway Station,8,Friday,29.96,4.3,4.6,1.7,Foggy,1
+375,Downtown,Residential Area,8,Wednesday,3.99,3.2,3.2,1.2,Clear,1
+376,Railway Station,Airport,22,Friday,35.03,4.1,3.9,1.5,Foggy,1
+377,Mall,Railway Station,17,Sunday,33.3,3.5,4.3,1.2,Foggy,0
+378,Airport,Airport,9,Tuesday,9.43,4.6,3.4,1.2,Clear,0
+379,Airport,Downtown,20,Wednesday,32.56,3.9,4.3,1.4,Clear,0
+380,Residential Area,Airport,3,Thursday,31.67,5.0,4.8,3.0,Foggy,1
+381,Airport,Downtown,11,Wednesday,25.66,3.2,5.0,1.0,Foggy,1
+382,Residential Area,Downtown,7,Friday,15.57,4.6,3.1,2.3,Clear,1
+383,Downtown,Airport,1,Monday,11.59,4.3,3.5,1.3,Stormy,0
+384,Mall,Railway Station,21,Wednesday,10.04,4.5,3.6,2.8,Clear,1
+385,Residential Area,Residential Area,12,Thursday,13.43,3.6,3.8,1.2,Foggy,0
+386,Downtown,Residential Area,20,Tuesday,36.24,4.0,3.5,2.9,Foggy,1
+387,Airport,Downtown,15,Saturday,4.03,4.6,3.4,2.2,Foggy,0
+388,Airport,Downtown,1,Monday,33.33,3.5,4.9,1.0,Clear,1
+389,Downtown,Railway Station,10,Tuesday,14.61,3.5,4.8,2.8,Foggy,0
+390,Airport,Mall,9,Wednesday,21.34,4.1,3.1,2.0,Stormy,1
+391,Downtown,Airport,14,Friday,31.98,4.0,3.7,1.5,Rainy,1
+392,Residential Area,Downtown,16,Sunday,35.49,3.6,3.8,2.5,Stormy,1
+393,Residential Area,Residential Area,7,Friday,14.45,3.6,3.5,2.9,Clear,0
+394,Downtown,Railway Station,17,Thursday,19.01,3.6,4.3,2.0,Foggy,1
+395,Residential Area,Airport,22,Friday,17.17,4.5,4.3,1.6,Clear,0
+396,Residential Area,Railway Station,8,Monday,1.52,4.3,4.7,2.6,Rainy,1
+397,Residential Area,Airport,7,Friday,12.54,4.7,4.5,2.4,Clear,1
+398,Railway Station,Airport,13,Thursday,18.91,5.0,4.1,2.8,Foggy,1
+399,Mall,Downtown,17,Saturday,17.03,3.9,4.3,2.4,Rainy,1
+400,Airport,Railway Station,21,Wednesday,29.16,3.1,3.5,1.5,Rainy,1
+401,Railway Station,Railway Station,19,Sunday,16.01,3.1,4.2,2.9,Foggy,0
+402,Residential Area,Residential Area,19,Wednesday,20.09,3.6,4.0,1.2,Foggy,1
+403,Downtown,Residential Area,20,Friday,17.75,4.9,3.3,1.5,Foggy,0
+404,Residential Area,Downtown,11,Tuesday,29.88,4.0,3.5,2.0,Clear,0
+405,Mall,Downtown,18,Wednesday,34.66,3.5,3.6,2.1,Stormy,1
+406,Residential Area,Mall,13,Saturday,21.74,3.8,4.8,1.0,Clear,0
+407,Downtown,Residential Area,16,Friday,31.79,4.2,3.5,2.6,Clear,0
+408,Mall,Airport,23,Sunday,12.57,4.3,3.6,1.7,Stormy,0
+409,Residential Area,Railway Station,20,Thursday,22.11,3.3,3.7,1.8,Foggy,0
+410,Mall,Downtown,2,Saturday,14.46,5.0,4.3,2.6,Foggy,1
+411,Airport,Railway Station,22,Friday,17.15,4.1,3.2,1.8,Stormy,1
+412,Airport,Railway Station,6,Saturday,29.56,3.3,4.9,1.1,Stormy,0
+413,Residential Area,Mall,16,Wednesday,35.38,4.8,4.7,1.4,Clear,1
+414,Mall,Residential Area,11,Sunday,5.74,3.1,4.2,2.9,Rainy,1
+415,Downtown,Downtown,8,Thursday,25.75,4.8,4.3,1.1,Stormy,0
+416,Residential Area,Railway Station,14,Friday,23.7,5.0,3.0,1.7,Clear,0
+417,Airport,Downtown,17,Monday,5.62,4.4,3.7,2.0,Rainy,0
+418,Airport,Airport,20,Thursday,9.26,4.5,4.6,2.0,Foggy,0
+419,Residential Area,Mall,12,Monday,13.13,3.7,3.2,1.0,Foggy,1
+420,Mall,Airport,20,Saturday,7.51,4.9,3.6,2.0,Clear,0
+421,Airport,Downtown,7,Tuesday,10.51,4.1,4.2,1.8,Clear,0
+422,Mall,Downtown,13,Thursday,11.44,4.5,3.5,2.9,Stormy,1
+423,Airport,Residential Area,7,Saturday,14.09,4.8,4.9,1.3,Foggy,0
+424,Airport,Railway Station,13,Monday,30.23,5.0,3.3,1.7,Clear,1
+425,Railway Station,Railway Station,6,Wednesday,23.3,4.7,4.6,1.8,Foggy,0
+426,Airport,Airport,22,Wednesday,39.46,3.6,4.0,1.8,Foggy,1
+427,Downtown,Mall,11,Tuesday,17.17,4.9,4.5,2.3,Stormy,1
+428,Residential Area,Railway Station,10,Thursday,30.4,4.3,3.6,1.4,Rainy,1
+429,Residential Area,Residential Area,21,Thursday,34.99,4.9,4.0,1.4,Stormy,1
+430,Mall,Airport,21,Thursday,27.48,4.4,4.7,2.5,Clear,0
+431,Airport,Airport,10,Saturday,17.06,3.6,3.9,2.0,Stormy,0
+432,Downtown,Residential Area,21,Sunday,30.39,3.7,3.7,1.8,Stormy,0
+433,Mall,Mall,12,Sunday,8.94,4.1,4.1,1.3,Foggy,0
+434,Railway Station,Residential Area,17,Tuesday,13.77,4.6,4.4,1.4,Stormy,1
+435,Mall,Mall,1,Thursday,22.32,3.6,3.9,1.0,Clear,1
+436,Mall,Residential Area,20,Saturday,23.44,4.2,4.9,1.2,Rainy,1
+437,Airport,Residential Area,14,Wednesday,1.86,3.7,3.6,2.1,Stormy,1
+438,Railway Station,Downtown,19,Monday,37.86,4.6,4.0,2.8,Stormy,1
+439,Mall,Airport,17,Saturday,28.17,3.9,4.5,1.6,Rainy,1
+440,Downtown,Residential Area,14,Sunday,20.33,3.2,4.4,1.7,Clear,1
+441,Downtown,Residential Area,18,Sunday,37.39,3.3,4.7,1.2,Clear,0
+442,Residential Area,Railway Station,22,Wednesday,18.12,3.1,5.0,1.8,Stormy,1
+443,Railway Station,Airport,23,Wednesday,39.24,4.0,3.9,1.1,Foggy,1
+444,Railway Station,Railway Station,11,Monday,20.98,3.2,3.2,2.8,Stormy,1
+445,Residential Area,Airport,12,Wednesday,5.46,3.2,3.1,2.3,Rainy,1
+446,Mall,Railway Station,21,Tuesday,30.83,4.9,4.5,3.0,Rainy,0
+447,Railway Station,Residential Area,10,Monday,27.48,4.7,4.7,2.8,Rainy,0
+448,Downtown,Residential Area,4,Wednesday,31.15,3.9,3.4,1.9,Stormy,1
+449,Downtown,Downtown,0,Friday,38.11,5.0,3.3,2.0,Stormy,1
+450,Airport,Railway Station,23,Saturday,31.28,3.0,3.1,1.4,Clear,1
+451,Railway Station,Mall,2,Wednesday,24.84,4.2,4.6,1.9,Foggy,0
+452,Mall,Downtown,21,Tuesday,34.44,4.2,3.6,2.8,Stormy,1
+453,Residential Area,Railway Station,18,Thursday,27.26,3.9,3.8,1.1,Clear,1
+454,Residential Area,Railway Station,22,Wednesday,16.92,3.8,4.0,2.7,Stormy,0
+455,Mall,Downtown,6,Sunday,35.54,3.9,4.7,1.7,Clear,0
+456,Airport,Residential Area,11,Sunday,9.65,3.8,4.3,2.8,Clear,0
+457,Residential Area,Railway Station,14,Sunday,28.87,4.5,4.2,2.9,Foggy,1
+458,Railway Station,Residential Area,4,Thursday,35.38,3.3,3.4,2.3,Stormy,1
+459,Airport,Downtown,14,Sunday,29.52,3.4,4.0,2.3,Clear,1
+460,Railway Station,Residential Area,7,Friday,28.19,3.4,4.4,1.9,Rainy,1
+461,Downtown,Airport,9,Wednesday,30.35,3.5,4.9,2.7,Rainy,1
+462,Airport,Mall,15,Sunday,19.14,4.1,3.4,2.9,Rainy,0
+463,Residential Area,Railway Station,7,Monday,35.09,3.2,3.0,2.6,Foggy,1
+464,Airport,Mall,0,Thursday,8.93,4.7,3.2,2.2,Clear,1
+465,Airport,Residential Area,11,Friday,5.97,3.6,3.8,2.2,Foggy,1
+466,Airport,Railway Station,4,Monday,12.13,3.3,4.6,2.7,Stormy,1
+467,Airport,Residential Area,2,Monday,21.73,4.4,3.0,2.1,Stormy,0
+468,Railway Station,Airport,0,Monday,20.91,3.1,3.9,2.6,Clear,1
+469,Downtown,Downtown,3,Monday,33.0,4.2,3.7,2.0,Rainy,1
+470,Mall,Railway Station,7,Wednesday,16.78,4.4,3.1,1.1,Clear,0
+471,Airport,Airport,2,Sunday,19.89,3.4,3.9,1.8,Clear,0
+472,Residential Area,Airport,9,Saturday,1.52,3.1,3.5,1.9,Clear,1
+473,Airport,Railway Station,1,Wednesday,16.98,3.7,3.7,1.3,Foggy,0
+474,Residential Area,Residential Area,10,Wednesday,26.26,3.2,4.4,1.2,Stormy,0
+475,Railway Station,Airport,9,Friday,1.6,3.2,4.0,2.1,Clear,1
+476,Residential Area,Mall,20,Friday,11.95,3.5,3.2,1.2,Clear,1
+477,Mall,Airport,13,Sunday,9.11,3.6,4.9,1.6,Clear,1
+478,Downtown,Residential Area,6,Saturday,2.64,4.1,4.3,2.5,Foggy,0
+479,Residential Area,Residential Area,1,Friday,19.69,4.4,4.5,2.9,Foggy,1
+480,Residential Area,Mall,8,Sunday,8.09,4.2,3.2,2.4,Foggy,1
+481,Downtown,Airport,15,Sunday,29.98,3.3,3.1,3.0,Clear,1
+482,Mall,Residential Area,12,Tuesday,34.07,3.3,3.0,2.4,Rainy,0
+483,Airport,Railway Station,8,Saturday,22.28,4.8,3.4,1.6,Rainy,1
+484,Residential Area,Downtown,19,Friday,39.29,4.1,3.8,2.3,Rainy,0
+485,Downtown,Downtown,3,Saturday,18.57,4.7,4.9,2.4,Stormy,0
+486,Railway Station,Downtown,21,Wednesday,21.02,3.7,3.9,1.7,Clear,0
+487,Downtown,Airport,9,Wednesday,39.58,4.2,3.6,1.0,Rainy,1
+488,Railway Station,Mall,21,Saturday,10.03,4.0,4.1,2.4,Rainy,0
+489,Mall,Residential Area,11,Tuesday,37.76,3.6,3.2,1.0,Rainy,0
+490,Airport,Railway Station,16,Tuesday,2.67,3.9,4.2,2.3,Clear,1
+491,Downtown,Railway Station,13,Saturday,18.41,4.0,4.1,1.3,Rainy,0
+492,Residential Area,Airport,13,Friday,3.73,3.4,4.6,2.1,Rainy,1
+493,Mall,Downtown,1,Thursday,29.44,3.6,5.0,2.0,Clear,0
+494,Downtown,Airport,20,Tuesday,24.73,4.6,3.5,1.0,Stormy,1
+495,Residential Area,Mall,19,Monday,28.56,4.8,4.0,1.7,Foggy,0
+496,Downtown,Mall,10,Wednesday,15.6,3.7,4.8,2.2,Rainy,0
+497,Railway Station,Residential Area,15,Saturday,15.41,3.6,4.6,2.7,Foggy,1
+498,Downtown,Residential Area,18,Monday,2.77,3.4,4.0,2.8,Stormy,1
+499,Downtown,Mall,22,Saturday,14.65,4.4,4.9,2.0,Stormy,1
+500,Downtown,Mall,5,Sunday,37.24,3.6,3.1,2.5,Rainy,1
+501,Mall,Mall,23,Wednesday,15.79,5.0,4.9,1.6,Clear,0
+502,Downtown,Airport,18,Wednesday,33.42,3.7,3.1,1.7,Stormy,0
+503,Residential Area,Mall,4,Tuesday,33.85,3.8,4.1,1.4,Foggy,1
+504,Railway Station,Railway Station,3,Tuesday,15.56,4.2,4.8,2.1,Foggy,1
+505,Railway Station,Downtown,14,Monday,25.65,4.6,3.5,1.6,Foggy,1
+506,Downtown,Mall,3,Sunday,4.72,3.9,3.9,1.2,Foggy,0
+507,Mall,Downtown,19,Saturday,5.04,3.8,3.6,2.4,Stormy,1
+508,Mall,Airport,9,Sunday,2.9,5.0,4.9,2.4,Rainy,1
+509,Residential Area,Downtown,23,Wednesday,23.66,3.0,4.6,1.7,Rainy,1
+510,Downtown,Airport,21,Monday,17.62,4.8,4.4,1.2,Foggy,0
+511,Railway Station,Railway Station,2,Thursday,22.37,3.3,4.2,1.9,Rainy,1
+512,Mall,Airport,4,Monday,21.32,4.6,4.6,1.9,Foggy,0
+513,Downtown,Airport,5,Friday,14.66,4.2,3.8,2.3,Foggy,1
+514,Mall,Residential Area,20,Monday,27.42,3.7,3.9,1.6,Clear,1
+515,Mall,Mall,21,Sunday,30.58,4.7,4.5,2.4,Stormy,1
+516,Railway Station,Mall,7,Friday,1.57,3.0,3.7,2.7,Stormy,0
+517,Airport,Railway Station,6,Friday,9.08,3.5,3.1,1.5,Foggy,0
+518,Residential Area,Railway Station,20,Friday,28.82,4.1,3.1,3.0,Stormy,1
+519,Residential Area,Mall,9,Thursday,16.08,3.7,3.2,1.8,Rainy,1
+520,Railway Station,Residential Area,5,Monday,26.84,4.2,4.7,1.5,Foggy,1
+521,Mall,Mall,13,Sunday,14.53,3.0,3.9,1.8,Clear,1
+522,Downtown,Residential Area,3,Monday,16.24,3.2,4.4,1.2,Rainy,1
+523,Mall,Railway Station,12,Thursday,7.19,3.3,3.8,1.3,Clear,1
+524,Railway Station,Downtown,19,Wednesday,11.07,3.4,3.5,1.8,Clear,0
+525,Residential Area,Railway Station,16,Tuesday,24.61,3.9,3.7,2.5,Stormy,1
+526,Mall,Railway Station,22,Sunday,17.89,4.5,4.6,2.8,Stormy,0
+527,Residential Area,Airport,6,Sunday,31.2,4.8,4.3,2.3,Foggy,0
+528,Downtown,Airport,3,Monday,34.25,4.7,4.9,1.2,Stormy,0
+529,Residential Area,Airport,13,Tuesday,22.12,3.4,4.4,2.3,Clear,1
+530,Residential Area,Airport,2,Saturday,30.57,3.9,4.1,2.3,Clear,1
+531,Airport,Residential Area,23,Saturday,12.97,3.4,4.2,2.6,Rainy,1
+532,Airport,Mall,4,Thursday,17.18,3.5,4.9,2.7,Clear,0
+533,Airport,Downtown,15,Saturday,28.8,4.0,4.6,2.7,Foggy,0
+534,Residential Area,Railway Station,22,Sunday,16.06,3.1,3.0,1.8,Foggy,0
+535,Railway Station,Residential Area,19,Saturday,23.95,3.4,4.1,2.4,Stormy,1
+536,Residential Area,Downtown,3,Wednesday,8.23,4.9,4.4,1.5,Stormy,0
+537,Railway Station,Residential Area,23,Wednesday,24.39,3.9,4.5,3.0,Stormy,1
+538,Railway Station,Residential Area,23,Wednesday,34.6,3.9,3.4,1.4,Foggy,1
+539,Airport,Railway Station,1,Saturday,34.88,3.0,4.7,1.0,Clear,1
+540,Mall,Mall,17,Thursday,29.25,3.5,4.9,1.3,Stormy,1
+541,Downtown,Airport,18,Friday,30.08,4.7,3.5,2.6,Rainy,1
+542,Airport,Mall,18,Friday,22.76,3.3,4.8,1.9,Stormy,1
+543,Airport,Railway Station,16,Tuesday,23.8,3.8,3.2,1.9,Foggy,0
+544,Mall,Railway Station,13,Friday,6.21,3.0,3.1,2.9,Stormy,1
+545,Downtown,Railway Station,18,Friday,18.31,4.0,3.3,2.8,Clear,0
+546,Residential Area,Downtown,21,Wednesday,18.58,3.0,3.1,1.6,Stormy,1
+547,Residential Area,Mall,23,Wednesday,38.38,4.6,4.7,1.4,Foggy,1
+548,Airport,Mall,12,Saturday,17.81,4.6,3.1,2.7,Foggy,1
+549,Downtown,Residential Area,11,Tuesday,22.42,4.6,3.5,2.8,Rainy,1
+550,Airport,Residential Area,5,Monday,21.8,3.6,3.2,2.1,Foggy,1
+551,Railway Station,Residential Area,20,Sunday,25.83,4.7,3.6,2.3,Rainy,1
+552,Airport,Railway Station,3,Tuesday,30.18,4.1,3.2,1.5,Clear,1
+553,Airport,Mall,18,Tuesday,9.78,3.7,4.3,2.6,Foggy,1
+554,Residential Area,Railway Station,15,Thursday,21.62,4.3,3.3,2.3,Stormy,1
+555,Residential Area,Downtown,12,Saturday,33.21,3.0,4.7,2.0,Clear,1
+556,Residential Area,Residential Area,3,Thursday,19.06,3.3,4.6,1.1,Stormy,1
+557,Railway Station,Railway Station,22,Tuesday,11.86,4.5,3.0,2.8,Stormy,1
+558,Residential Area,Railway Station,16,Tuesday,26.53,3.5,4.8,2.2,Stormy,1
+559,Downtown,Downtown,22,Tuesday,33.13,4.2,3.1,1.4,Clear,1
+560,Mall,Airport,0,Friday,3.46,3.8,3.5,2.2,Clear,1
+561,Downtown,Mall,17,Sunday,31.29,4.7,3.1,2.4,Foggy,1
+562,Downtown,Airport,19,Sunday,33.04,4.9,3.7,2.1,Stormy,0
+563,Residential Area,Residential Area,16,Thursday,19.0,4.8,4.0,2.4,Rainy,1
+564,Mall,Railway Station,14,Tuesday,39.35,3.5,4.6,2.2,Foggy,0
+565,Mall,Downtown,10,Sunday,31.68,3.4,3.7,2.9,Clear,0
+566,Mall,Downtown,21,Wednesday,31.17,3.9,4.4,1.1,Rainy,1
+567,Railway Station,Mall,12,Sunday,30.17,3.0,3.4,1.2,Clear,1
+568,Residential Area,Airport,0,Saturday,6.87,3.1,4.5,1.3,Rainy,1
+569,Mall,Mall,16,Saturday,9.47,4.1,3.5,2.4,Foggy,1
+570,Railway Station,Railway Station,5,Sunday,19.1,4.0,3.3,2.3,Rainy,0
+571,Airport,Mall,3,Wednesday,11.3,5.0,3.4,2.8,Foggy,1
+572,Airport,Downtown,19,Saturday,17.19,3.4,3.4,2.5,Clear,0
+573,Railway Station,Downtown,15,Friday,35.65,3.5,4.0,2.0,Rainy,0
+574,Railway Station,Residential Area,14,Sunday,33.15,3.2,4.7,3.0,Stormy,0
+575,Residential Area,Residential Area,14,Friday,25.57,4.8,3.2,1.5,Stormy,0
+576,Residential Area,Railway Station,5,Sunday,34.47,4.6,4.4,2.7,Clear,0
+577,Airport,Airport,14,Monday,31.57,4.6,4.3,1.9,Rainy,1
+578,Mall,Mall,13,Monday,17.73,4.8,4.7,2.3,Stormy,1
+579,Airport,Railway Station,10,Monday,8.84,4.0,3.5,2.5,Foggy,1
+580,Mall,Residential Area,6,Saturday,21.05,3.9,3.9,2.3,Rainy,1
+581,Mall,Mall,8,Friday,29.71,3.7,4.9,1.3,Rainy,0
+582,Residential Area,Residential Area,15,Friday,18.02,4.2,4.3,1.9,Stormy,1
+583,Downtown,Mall,4,Friday,27.0,3.9,3.8,2.1,Foggy,1
+584,Downtown,Airport,19,Wednesday,4.68,3.9,3.3,2.7,Foggy,0
+585,Railway Station,Railway Station,9,Friday,30.17,4.9,3.5,1.9,Foggy,0
+586,Residential Area,Mall,17,Wednesday,32.7,5.0,4.2,2.8,Rainy,1
+587,Mall,Downtown,2,Monday,28.57,4.6,4.4,1.9,Clear,1
+588,Downtown,Downtown,12,Monday,38.72,4.5,3.2,2.1,Rainy,0
+589,Mall,Mall,10,Saturday,33.24,4.4,4.2,2.6,Rainy,1
+590,Downtown,Mall,16,Sunday,36.22,3.3,4.1,2.2,Stormy,0
+591,Downtown,Mall,21,Monday,37.41,3.1,4.0,2.9,Clear,0
+592,Downtown,Downtown,12,Sunday,32.25,4.4,4.4,2.3,Foggy,1
+593,Residential Area,Downtown,5,Sunday,27.3,4.5,4.7,2.0,Stormy,1
+594,Airport,Mall,16,Saturday,1.22,3.1,3.6,1.0,Rainy,1
+595,Mall,Residential Area,12,Tuesday,19.17,4.9,4.8,1.8,Clear,0
+596,Residential Area,Residential Area,18,Tuesday,23.28,3.2,3.3,1.6,Foggy,0
+597,Residential Area,Airport,20,Thursday,12.86,3.6,3.3,2.5,Foggy,0
+598,Residential Area,Railway Station,18,Saturday,13.41,4.3,3.5,1.4,Rainy,1
+599,Residential Area,Residential Area,9,Thursday,38.49,3.3,3.2,1.4,Foggy,0
+600,Residential Area,Downtown,2,Thursday,35.78,3.1,3.5,1.4,Foggy,1
+601,Railway Station,Residential Area,13,Tuesday,34.12,3.7,3.2,1.3,Clear,0
+602,Mall,Airport,18,Saturday,16.83,4.5,4.6,1.6,Stormy,1
+603,Residential Area,Airport,4,Tuesday,1.53,3.8,3.3,2.8,Clear,1
+604,Mall,Railway Station,4,Thursday,4.13,4.3,4.5,2.5,Stormy,0
+605,Railway Station,Residential Area,19,Saturday,13.18,4.2,3.1,2.5,Stormy,0
+606,Railway Station,Downtown,16,Thursday,1.61,3.0,4.9,2.6,Stormy,1
+607,Mall,Downtown,20,Friday,1.67,5.0,4.4,1.5,Foggy,0
+608,Downtown,Mall,9,Sunday,36.75,3.1,3.0,2.8,Clear,1
+609,Airport,Downtown,4,Saturday,28.54,4.9,4.5,1.3,Foggy,0
+610,Downtown,Railway Station,3,Saturday,13.05,4.1,4.0,1.7,Rainy,0
+611,Downtown,Railway Station,5,Sunday,6.17,4.9,4.6,2.2,Clear,1
+612,Downtown,Downtown,3,Thursday,20.95,3.2,4.0,1.2,Stormy,1
+613,Residential Area,Downtown,6,Friday,1.21,4.0,4.3,2.5,Foggy,1
+614,Railway Station,Mall,6,Wednesday,37.6,3.3,4.6,1.8,Foggy,1
+615,Downtown,Downtown,17,Sunday,17.18,3.1,3.8,2.6,Clear,1
+616,Railway Station,Mall,2,Tuesday,16.69,4.2,3.0,2.0,Clear,0
+617,Mall,Mall,0,Thursday,16.23,3.4,4.7,1.4,Stormy,0
+618,Airport,Downtown,23,Sunday,3.7,4.2,3.8,2.5,Stormy,0
+619,Mall,Airport,3,Sunday,25.89,3.2,4.0,1.5,Rainy,1
+620,Mall,Airport,5,Saturday,29.59,3.7,3.0,2.0,Stormy,0
+621,Residential Area,Mall,8,Tuesday,27.37,4.6,4.0,1.2,Foggy,1
+622,Airport,Downtown,21,Tuesday,6.4,3.9,5.0,2.2,Rainy,0
+623,Mall,Airport,13,Tuesday,23.57,4.3,3.6,2.3,Rainy,0
+624,Mall,Downtown,11,Sunday,23.21,4.3,3.8,1.8,Rainy,1
+625,Airport,Downtown,19,Wednesday,34.87,4.7,4.4,2.9,Clear,0
+626,Airport,Downtown,23,Monday,15.79,3.6,4.6,2.7,Stormy,0
+627,Mall,Residential Area,3,Thursday,15.49,4.4,3.8,2.4,Rainy,1
+628,Airport,Downtown,20,Monday,25.12,4.9,3.6,2.4,Clear,0
+629,Mall,Residential Area,23,Sunday,25.69,4.5,4.9,1.5,Clear,1
+630,Mall,Mall,11,Monday,19.3,4.0,4.4,2.3,Rainy,1
+631,Residential Area,Airport,9,Sunday,18.28,4.3,3.2,1.4,Rainy,1
+632,Downtown,Airport,21,Monday,20.27,4.5,3.1,1.3,Foggy,0
+633,Mall,Airport,6,Tuesday,34.58,4.2,4.0,3.0,Rainy,0
+634,Railway Station,Airport,2,Friday,18.99,3.0,3.4,2.2,Foggy,1
+635,Downtown,Airport,22,Tuesday,37.66,3.4,3.5,1.9,Rainy,0
+636,Downtown,Airport,13,Tuesday,20.66,4.6,4.8,1.6,Rainy,0
+637,Downtown,Airport,23,Saturday,38.02,3.5,3.2,2.2,Stormy,1
+638,Residential Area,Mall,9,Saturday,33.48,4.5,4.4,1.1,Rainy,0
+639,Mall,Downtown,15,Monday,15.13,3.7,3.5,1.2,Rainy,1
+640,Residential Area,Railway Station,15,Sunday,34.68,4.0,4.5,1.1,Foggy,1
+641,Mall,Residential Area,21,Tuesday,5.29,3.1,4.4,2.0,Foggy,1
+642,Residential Area,Railway Station,9,Monday,37.08,3.4,3.0,2.2,Stormy,1
+643,Residential Area,Railway Station,12,Saturday,25.63,4.9,4.0,1.1,Rainy,1
+644,Railway Station,Downtown,5,Friday,3.12,4.8,3.3,2.4,Rainy,0
+645,Residential Area,Downtown,11,Thursday,26.13,4.3,4.7,1.5,Foggy,1
+646,Airport,Downtown,8,Monday,39.0,3.9,4.7,2.4,Clear,1
+647,Railway Station,Airport,12,Friday,3.72,4.4,3.8,3.0,Clear,0
+648,Residential Area,Mall,3,Thursday,22.63,4.2,3.9,2.4,Clear,1
+649,Downtown,Airport,23,Wednesday,30.16,4.1,3.6,2.8,Foggy,0
+650,Airport,Mall,10,Monday,32.6,3.1,4.4,2.9,Foggy,0
+651,Airport,Mall,19,Monday,17.14,4.3,3.7,2.0,Clear,0
+652,Airport,Railway Station,17,Wednesday,8.96,4.5,3.5,2.4,Clear,1
+653,Railway Station,Railway Station,10,Wednesday,2.65,5.0,3.9,2.7,Rainy,1
+654,Residential Area,Mall,20,Monday,23.61,3.0,3.2,1.7,Foggy,0
+655,Residential Area,Mall,3,Wednesday,18.66,4.5,4.5,1.5,Foggy,0
+656,Downtown,Airport,17,Tuesday,38.0,4.1,3.0,2.9,Clear,1
+657,Downtown,Airport,0,Thursday,3.36,3.9,4.3,2.5,Clear,0
+658,Airport,Railway Station,6,Thursday,27.73,3.3,3.4,1.4,Stormy,1
+659,Downtown,Downtown,5,Thursday,1.97,3.8,3.5,1.9,Foggy,0
+660,Railway Station,Mall,14,Tuesday,7.69,3.7,4.3,2.6,Stormy,0
+661,Residential Area,Airport,17,Sunday,18.69,3.6,5.0,2.1,Rainy,0
+662,Airport,Railway Station,23,Wednesday,18.74,4.5,4.6,2.3,Stormy,1
+663,Downtown,Airport,10,Friday,27.74,4.4,3.5,2.5,Clear,1
+664,Railway Station,Mall,19,Wednesday,36.5,4.2,3.4,2.2,Foggy,0
+665,Railway Station,Mall,23,Monday,25.92,4.9,4.7,2.1,Foggy,1
+666,Downtown,Residential Area,14,Saturday,38.19,3.7,3.9,2.5,Stormy,1
+667,Residential Area,Downtown,15,Thursday,35.38,3.5,3.3,2.5,Stormy,0
+668,Downtown,Residential Area,6,Wednesday,23.8,4.3,4.7,2.3,Rainy,1
+669,Airport,Railway Station,20,Friday,33.52,3.4,4.6,1.7,Rainy,1
+670,Downtown,Airport,9,Monday,26.06,3.6,5.0,1.8,Clear,1
+671,Railway Station,Railway Station,11,Tuesday,4.06,3.4,4.8,2.9,Clear,1
+672,Downtown,Mall,23,Sunday,29.88,3.1,4.7,1.2,Clear,1
+673,Residential Area,Residential Area,13,Tuesday,4.7,4.7,3.1,1.5,Stormy,0
+674,Mall,Residential Area,4,Friday,24.17,3.5,3.2,2.0,Stormy,1
+675,Downtown,Residential Area,20,Monday,28.4,3.9,4.1,2.7,Foggy,0
+676,Residential Area,Railway Station,17,Thursday,3.59,3.1,4.1,1.3,Clear,1
+677,Residential Area,Mall,4,Wednesday,10.0,4.4,3.9,1.6,Stormy,1
+678,Railway Station,Airport,2,Monday,36.71,3.7,3.8,1.1,Foggy,1
+679,Residential Area,Airport,22,Sunday,25.04,4.5,3.9,2.4,Clear,1
+680,Residential Area,Railway Station,4,Tuesday,10.61,3.8,4.1,1.5,Rainy,1
+681,Residential Area,Residential Area,23,Sunday,27.94,3.4,3.0,1.8,Rainy,1
+682,Residential Area,Downtown,16,Sunday,24.27,4.0,3.5,1.9,Stormy,0
+683,Airport,Railway Station,18,Friday,20.56,3.3,4.0,2.8,Foggy,1
+684,Airport,Railway Station,18,Friday,39.07,3.9,4.4,1.8,Rainy,1
+685,Railway Station,Mall,20,Wednesday,27.65,3.6,3.3,1.3,Foggy,1
+686,Downtown,Airport,11,Friday,15.64,4.8,4.1,2.0,Foggy,0
+687,Residential Area,Railway Station,8,Friday,32.2,3.1,4.4,2.9,Rainy,0
+688,Downtown,Railway Station,0,Monday,35.5,4.4,3.9,2.2,Foggy,0
+689,Downtown,Residential Area,17,Thursday,5.88,3.4,3.1,3.0,Rainy,1
+690,Railway Station,Residential Area,20,Wednesday,8.82,3.6,3.9,2.7,Stormy,1
+691,Residential Area,Downtown,3,Monday,9.43,3.8,3.6,1.1,Clear,0
+692,Residential Area,Mall,9,Thursday,27.96,4.8,4.9,2.3,Clear,1
+693,Mall,Downtown,6,Sunday,24.52,3.5,3.2,1.6,Stormy,1
+694,Downtown,Residential Area,21,Monday,25.14,3.2,4.3,2.1,Rainy,1
+695,Downtown,Airport,22,Saturday,37.69,3.6,3.1,1.6,Rainy,1
+696,Airport,Residential Area,0,Monday,31.26,3.2,3.9,1.7,Rainy,1
+697,Mall,Mall,16,Friday,5.99,3.3,4.1,2.8,Rainy,1
+698,Airport,Residential Area,23,Thursday,14.55,4.1,3.6,1.4,Stormy,1
+699,Airport,Mall,1,Wednesday,17.98,3.1,3.9,2.7,Clear,0
+700,Airport,Mall,10,Wednesday,16.44,3.1,3.3,1.1,Foggy,1
+701,Railway Station,Mall,8,Thursday,27.1,4.4,3.6,1.2,Foggy,0
+702,Railway Station,Mall,6,Friday,35.78,3.7,4.2,2.7,Clear,1
+703,Airport,Mall,21,Tuesday,12.94,3.3,3.6,2.3,Stormy,0
+704,Mall,Airport,16,Monday,22.52,3.5,4.8,2.5,Foggy,1
+705,Downtown,Downtown,16,Friday,31.79,4.3,4.3,1.4,Clear,0
+706,Mall,Railway Station,1,Saturday,17.23,3.6,3.9,2.1,Stormy,1
+707,Residential Area,Downtown,5,Sunday,7.56,4.0,3.1,2.5,Foggy,1
+708,Railway Station,Mall,13,Thursday,19.52,3.2,4.0,2.3,Rainy,1
+709,Downtown,Airport,5,Monday,3.15,4.2,4.5,1.9,Rainy,1
+710,Downtown,Residential Area,1,Wednesday,37.75,3.6,3.5,2.9,Stormy,1
+711,Residential Area,Airport,0,Sunday,3.92,4.3,4.6,2.4,Rainy,0
+712,Residential Area,Mall,9,Tuesday,18.1,4.6,3.5,2.8,Stormy,1
+713,Airport,Airport,20,Saturday,21.67,4.2,4.6,2.5,Clear,0
+714,Railway Station,Airport,4,Wednesday,39.43,3.6,3.2,2.5,Clear,1
+715,Railway Station,Mall,1,Thursday,7.47,3.5,4.7,1.2,Foggy,1
+716,Mall,Airport,21,Monday,5.46,3.7,4.0,1.7,Stormy,1
+717,Airport,Railway Station,15,Thursday,1.34,3.3,3.6,2.7,Foggy,1
+718,Airport,Railway Station,1,Sunday,7.07,3.4,3.5,1.5,Foggy,1
+719,Airport,Airport,9,Monday,9.08,4.6,3.9,1.2,Clear,0
+720,Airport,Residential Area,1,Friday,25.59,3.8,5.0,1.7,Foggy,1
+721,Railway Station,Mall,15,Tuesday,9.57,3.9,3.4,1.4,Rainy,1
+722,Railway Station,Railway Station,15,Friday,1.8,4.2,3.2,2.9,Foggy,0
+723,Airport,Residential Area,18,Friday,33.24,4.2,4.2,2.7,Stormy,1
+724,Mall,Airport,6,Thursday,15.26,3.1,4.0,2.0,Rainy,0
+725,Downtown,Residential Area,21,Sunday,14.79,4.7,4.0,1.1,Clear,0
+726,Downtown,Downtown,11,Tuesday,12.8,3.4,4.3,2.4,Stormy,1
+727,Mall,Railway Station,23,Monday,39.04,4.4,3.5,2.2,Rainy,0
+728,Airport,Airport,14,Monday,7.63,4.5,4.8,2.9,Stormy,1
+729,Railway Station,Mall,7,Saturday,36.03,4.4,3.9,2.1,Rainy,1
+730,Downtown,Airport,5,Wednesday,31.3,4.2,3.3,1.7,Stormy,1
+731,Residential Area,Mall,9,Saturday,3.98,3.0,4.5,2.0,Stormy,1
+732,Residential Area,Airport,2,Saturday,39.48,3.7,4.3,3.0,Rainy,0
+733,Mall,Residential Area,18,Monday,11.58,4.2,3.6,2.4,Clear,0
+734,Airport,Residential Area,16,Thursday,4.84,3.8,4.2,2.3,Clear,1
+735,Downtown,Residential Area,6,Friday,33.34,4.7,3.4,1.5,Stormy,1
+736,Airport,Downtown,20,Sunday,28.56,3.6,3.9,2.5,Stormy,1
+737,Downtown,Mall,19,Friday,25.07,3.6,4.8,2.5,Clear,0
+738,Mall,Residential Area,3,Friday,7.08,3.5,3.3,1.6,Clear,0
+739,Mall,Downtown,13,Tuesday,19.66,3.7,3.8,2.0,Foggy,1
+740,Residential Area,Mall,19,Monday,31.44,4.1,4.6,1.6,Clear,1
+741,Airport,Airport,21,Sunday,12.84,4.4,4.9,1.5,Stormy,0
+742,Residential Area,Downtown,14,Thursday,13.16,4.3,3.9,1.1,Rainy,1
+743,Airport,Railway Station,23,Tuesday,1.12,4.6,4.0,1.6,Clear,0
+744,Residential Area,Downtown,7,Wednesday,7.8,4.8,4.1,2.1,Foggy,1
+745,Railway Station,Downtown,20,Thursday,35.14,4.6,4.9,1.0,Foggy,1
+746,Railway Station,Mall,14,Saturday,18.23,3.0,4.7,1.6,Foggy,1
+747,Railway Station,Airport,21,Thursday,39.39,4.5,3.3,2.8,Rainy,1
+748,Railway Station,Railway Station,19,Thursday,16.43,3.4,3.9,2.2,Clear,1
+749,Downtown,Residential Area,13,Friday,28.89,3.3,3.9,2.2,Clear,1
+750,Railway Station,Residential Area,8,Thursday,11.99,4.3,4.6,1.8,Clear,0
+751,Mall,Downtown,7,Saturday,15.19,3.6,4.2,2.4,Rainy,1
+752,Mall,Mall,16,Saturday,8.44,3.1,4.3,1.4,Rainy,0
+753,Downtown,Mall,1,Monday,14.54,3.3,5.0,2.6,Stormy,0
+754,Railway Station,Residential Area,23,Thursday,22.34,3.0,3.1,1.2,Foggy,1
+755,Railway Station,Railway Station,2,Friday,39.68,4.8,3.4,2.3,Foggy,0
+756,Railway Station,Airport,7,Thursday,26.9,3.0,3.8,1.7,Clear,0
+757,Residential Area,Railway Station,11,Wednesday,8.77,3.4,3.7,2.5,Rainy,0
+758,Airport,Airport,0,Wednesday,2.75,3.8,3.0,2.1,Rainy,1
+759,Residential Area,Residential Area,9,Friday,5.93,3.7,3.2,1.9,Clear,0
+760,Airport,Airport,19,Monday,22.94,4.8,4.4,1.3,Clear,0
+761,Railway Station,Mall,2,Monday,30.84,3.1,4.8,2.3,Stormy,0
+762,Railway Station,Downtown,5,Saturday,37.68,4.0,4.0,2.9,Foggy,1
+763,Residential Area,Downtown,6,Saturday,1.62,4.4,4.1,2.7,Foggy,1
+764,Residential Area,Residential Area,19,Tuesday,21.39,4.9,3.5,1.1,Foggy,0
+765,Airport,Mall,22,Friday,19.36,4.2,4.5,1.8,Stormy,1
+766,Mall,Railway Station,17,Thursday,26.59,4.6,4.5,2.9,Clear,0
+767,Airport,Mall,10,Sunday,22.82,3.2,4.2,2.0,Clear,0
+768,Residential Area,Downtown,18,Friday,27.79,3.8,3.4,2.3,Foggy,1
+769,Residential Area,Downtown,4,Tuesday,26.67,3.7,3.2,2.8,Foggy,1
+770,Downtown,Mall,18,Saturday,5.56,4.8,3.1,2.7,Stormy,1
+771,Residential Area,Mall,10,Friday,32.19,3.3,4.2,2.0,Rainy,0
+772,Downtown,Downtown,23,Friday,5.81,3.3,4.7,1.9,Rainy,1
+773,Mall,Railway Station,11,Saturday,28.24,3.7,4.7,1.7,Foggy,1
+774,Airport,Residential Area,9,Tuesday,17.23,3.1,3.9,2.4,Stormy,1
+775,Airport,Residential Area,7,Saturday,21.04,3.4,4.6,1.6,Foggy,0
+776,Downtown,Mall,23,Monday,36.23,4.9,4.9,1.5,Rainy,0
+777,Airport,Residential Area,8,Thursday,35.71,3.9,3.6,1.7,Foggy,0
+778,Residential Area,Downtown,3,Saturday,32.9,4.3,3.8,1.4,Rainy,1
+779,Railway Station,Downtown,4,Tuesday,20.9,4.5,4.9,2.4,Rainy,1
+780,Downtown,Mall,20,Wednesday,29.71,3.7,3.7,2.2,Rainy,1
+781,Airport,Mall,7,Monday,21.0,3.3,4.8,2.0,Clear,1
+782,Downtown,Mall,22,Wednesday,34.91,3.4,5.0,1.8,Clear,1
+783,Downtown,Railway Station,8,Sunday,16.71,3.6,4.3,2.8,Foggy,1
+784,Railway Station,Residential Area,14,Saturday,38.84,4.3,4.6,1.1,Rainy,1
+785,Residential Area,Mall,14,Monday,37.36,3.8,4.5,2.5,Clear,1
+786,Downtown,Airport,15,Thursday,29.92,3.0,4.4,2.8,Foggy,0
+787,Airport,Airport,13,Saturday,11.9,4.0,3.6,1.9,Foggy,0
+788,Mall,Downtown,7,Thursday,6.13,4.8,3.1,2.1,Foggy,0
+789,Downtown,Residential Area,17,Friday,34.33,4.6,3.7,2.9,Foggy,1
+790,Downtown,Mall,9,Wednesday,7.45,4.7,4.3,1.4,Foggy,0
+791,Railway Station,Airport,19,Monday,34.32,4.6,3.2,2.0,Stormy,0
+792,Residential Area,Residential Area,5,Thursday,20.14,3.6,3.0,1.9,Rainy,0
+793,Mall,Downtown,11,Tuesday,16.86,4.5,3.3,1.5,Foggy,0
+794,Airport,Railway Station,1,Thursday,36.22,3.3,4.4,2.6,Stormy,0
+795,Mall,Residential Area,6,Tuesday,24.55,4.3,4.9,2.8,Rainy,1
+796,Airport,Residential Area,15,Saturday,23.49,4.3,5.0,2.6,Clear,1
+797,Residential Area,Railway Station,2,Monday,22.79,3.1,4.0,1.4,Foggy,0
+798,Airport,Residential Area,12,Thursday,15.48,4.6,4.7,1.2,Stormy,1
+799,Railway Station,Downtown,2,Sunday,31.64,4.8,4.5,2.2,Clear,0
+800,Railway Station,Downtown,17,Thursday,10.86,3.5,4.0,1.1,Stormy,0
+801,Railway Station,Railway Station,10,Sunday,37.62,4.6,4.1,2.3,Rainy,1
+802,Railway Station,Mall,7,Monday,35.87,3.2,3.3,2.1,Rainy,1
+803,Mall,Airport,5,Thursday,14.16,4.2,4.9,2.3,Clear,1
+804,Residential Area,Mall,0,Tuesday,29.45,4.0,3.7,2.2,Stormy,1
+805,Airport,Residential Area,0,Thursday,23.36,4.1,3.9,1.8,Foggy,0
+806,Airport,Airport,22,Wednesday,14.17,4.9,4.3,1.4,Foggy,0
+807,Railway Station,Railway Station,7,Saturday,39.55,4.7,3.7,1.6,Clear,1
+808,Railway Station,Railway Station,4,Friday,1.98,4.6,3.5,2.0,Clear,0
+809,Downtown,Airport,15,Tuesday,10.85,3.5,4.3,2.3,Clear,1
+810,Residential Area,Downtown,10,Wednesday,21.28,4.8,3.0,2.6,Stormy,1
+811,Mall,Airport,4,Sunday,21.36,3.2,4.4,2.5,Foggy,0
+812,Airport,Residential Area,3,Saturday,23.97,4.7,4.0,2.9,Foggy,0
+813,Downtown,Downtown,5,Monday,30.32,3.7,4.2,1.6,Foggy,1
+814,Downtown,Railway Station,13,Tuesday,25.32,3.1,4.3,1.1,Clear,0
+815,Airport,Airport,21,Friday,24.41,4.3,4.1,1.7,Foggy,0
+816,Mall,Mall,18,Saturday,3.09,3.5,4.2,2.5,Rainy,1
+817,Downtown,Mall,8,Sunday,15.68,3.5,4.4,1.9,Clear,0
+818,Downtown,Residential Area,11,Friday,10.05,3.6,4.5,2.6,Foggy,0
+819,Residential Area,Mall,10,Monday,11.35,3.1,4.5,2.1,Stormy,1
+820,Mall,Airport,13,Monday,22.62,3.4,4.7,2.9,Clear,1
+821,Downtown,Airport,22,Sunday,8.78,3.0,3.4,2.9,Rainy,1
+822,Mall,Mall,15,Tuesday,12.46,3.9,3.8,1.1,Rainy,1
+823,Airport,Airport,0,Sunday,10.25,3.2,4.9,1.9,Stormy,0
+824,Railway Station,Residential Area,12,Thursday,37.99,4.4,3.8,2.2,Stormy,1
+825,Downtown,Downtown,22,Monday,37.84,3.5,3.2,1.5,Clear,1
+826,Residential Area,Residential Area,20,Saturday,24.79,4.9,4.1,1.8,Clear,0
+827,Airport,Residential Area,20,Thursday,37.06,4.7,3.2,2.4,Rainy,0
+828,Mall,Airport,12,Wednesday,31.65,3.6,3.4,1.5,Stormy,0
+829,Airport,Downtown,1,Friday,24.01,4.6,5.0,2.2,Clear,1
+830,Downtown,Airport,3,Thursday,1.25,4.6,4.1,2.4,Rainy,1
+831,Mall,Railway Station,5,Friday,31.13,5.0,3.6,1.2,Stormy,1
+832,Railway Station,Airport,22,Sunday,28.4,4.2,5.0,2.0,Rainy,1
+833,Airport,Airport,4,Thursday,24.99,3.2,4.9,1.5,Foggy,0
+834,Downtown,Airport,2,Sunday,30.66,4.3,3.9,2.4,Stormy,1
+835,Residential Area,Downtown,0,Wednesday,21.0,4.2,3.5,1.4,Clear,0
+836,Mall,Airport,3,Monday,28.46,4.3,4.7,2.8,Clear,0
+837,Airport,Downtown,19,Wednesday,37.47,3.6,4.4,1.9,Foggy,1
+838,Airport,Mall,1,Monday,15.66,4.7,4.4,1.4,Stormy,1
+839,Railway Station,Railway Station,4,Sunday,28.62,4.9,4.8,1.9,Rainy,0
+840,Railway Station,Downtown,2,Monday,19.55,3.4,4.4,1.8,Clear,1
+841,Residential Area,Mall,8,Friday,27.3,3.2,3.6,1.9,Foggy,0
+842,Residential Area,Downtown,19,Saturday,30.75,3.4,4.4,2.2,Foggy,1
+843,Downtown,Downtown,5,Wednesday,2.77,4.6,3.6,2.0,Stormy,0
+844,Downtown,Railway Station,17,Thursday,26.22,4.4,4.5,1.3,Stormy,1
+845,Residential Area,Residential Area,5,Wednesday,9.84,4.3,4.2,1.1,Clear,0
+846,Residential Area,Residential Area,18,Friday,27.13,3.8,3.2,2.5,Foggy,1
+847,Mall,Downtown,11,Monday,19.26,4.2,4.0,2.1,Rainy,1
+848,Railway Station,Airport,10,Friday,31.17,3.6,3.7,1.7,Foggy,1
+849,Downtown,Mall,1,Tuesday,5.81,4.0,3.7,2.6,Rainy,1
+850,Railway Station,Airport,14,Tuesday,25.43,4.6,4.2,1.8,Rainy,1
+851,Railway Station,Airport,11,Thursday,11.86,5.0,3.6,2.6,Clear,0
+852,Residential Area,Downtown,11,Friday,34.27,4.9,4.6,1.6,Foggy,0
+853,Mall,Downtown,8,Sunday,37.21,4.9,3.1,1.1,Rainy,1
+854,Airport,Downtown,20,Thursday,39.86,3.8,4.3,2.9,Stormy,1
+855,Mall,Downtown,23,Sunday,32.04,3.9,4.6,1.8,Rainy,0
+856,Mall,Residential Area,1,Thursday,30.4,4.4,4.3,2.6,Stormy,1
+857,Railway Station,Downtown,21,Tuesday,9.4,4.8,4.0,1.6,Stormy,0
+858,Mall,Residential Area,2,Thursday,14.1,3.3,4.9,2.3,Foggy,1
+859,Downtown,Residential Area,11,Tuesday,19.16,3.6,3.6,2.7,Stormy,1
+860,Railway Station,Downtown,15,Monday,31.16,3.3,3.0,1.1,Rainy,0
+861,Downtown,Railway Station,20,Sunday,36.68,4.2,3.9,2.7,Stormy,0
+862,Airport,Mall,23,Friday,8.38,3.6,3.1,2.1,Foggy,1
+863,Railway Station,Airport,0,Thursday,36.97,3.7,4.9,2.2,Clear,1
+864,Airport,Residential Area,20,Tuesday,28.13,3.1,3.4,2.0,Rainy,1
+865,Railway Station,Mall,2,Wednesday,24.82,3.7,4.6,2.7,Rainy,0
+866,Residential Area,Railway Station,19,Sunday,8.79,4.7,4.5,1.1,Foggy,0
+867,Mall,Airport,1,Thursday,3.17,3.5,3.4,1.5,Foggy,1
+868,Residential Area,Airport,8,Saturday,23.17,4.4,4.2,2.8,Foggy,0
+869,Airport,Residential Area,18,Monday,26.41,4.3,3.1,2.5,Foggy,0
+870,Mall,Downtown,14,Monday,9.22,4.7,4.0,1.0,Rainy,1
+871,Railway Station,Railway Station,17,Wednesday,22.7,3.3,3.0,2.0,Clear,0
+872,Mall,Residential Area,10,Tuesday,34.4,5.0,4.8,2.1,Stormy,1
+873,Downtown,Railway Station,22,Thursday,33.57,4.2,5.0,1.8,Stormy,0
+874,Mall,Downtown,15,Sunday,37.17,5.0,3.4,1.6,Clear,1
+875,Downtown,Downtown,21,Tuesday,15.27,4.8,3.4,2.4,Clear,0
+876,Mall,Residential Area,16,Monday,13.4,3.4,4.5,1.4,Clear,1
+877,Downtown,Downtown,4,Tuesday,30.23,3.1,3.5,2.6,Foggy,1
+878,Airport,Mall,11,Monday,17.81,3.5,4.8,2.6,Rainy,1
+879,Residential Area,Airport,10,Tuesday,4.41,4.1,4.1,1.8,Rainy,0
+880,Railway Station,Residential Area,14,Wednesday,12.03,3.3,3.7,1.6,Rainy,1
+881,Mall,Railway Station,2,Friday,17.32,3.3,4.7,1.6,Foggy,1
+882,Residential Area,Mall,0,Wednesday,12.41,3.9,4.0,2.0,Rainy,1
+883,Railway Station,Residential Area,19,Wednesday,13.96,3.1,4.8,2.4,Foggy,1
+884,Railway Station,Downtown,15,Friday,12.46,3.2,4.9,1.7,Rainy,1
+885,Downtown,Downtown,1,Friday,2.62,3.8,3.3,2.2,Clear,1
+886,Airport,Downtown,1,Thursday,25.85,3.1,3.0,1.8,Stormy,1
+887,Airport,Downtown,2,Sunday,24.29,3.8,5.0,1.6,Stormy,1
+888,Residential Area,Railway Station,7,Sunday,26.48,3.9,4.8,1.0,Foggy,1
+889,Airport,Mall,23,Thursday,8.5,3.9,3.1,1.0,Rainy,0
+890,Mall,Airport,14,Wednesday,12.53,4.7,4.7,1.5,Stormy,1
+891,Airport,Railway Station,6,Wednesday,25.17,4.1,3.9,1.8,Clear,1
+892,Residential Area,Railway Station,5,Monday,24.39,3.9,3.5,2.7,Clear,0
+893,Airport,Airport,8,Monday,20.75,3.8,4.8,2.6,Clear,1
+894,Mall,Airport,19,Sunday,14.67,4.6,3.4,1.5,Foggy,0
+895,Downtown,Downtown,0,Thursday,36.6,4.8,4.9,1.5,Foggy,0
+896,Residential Area,Railway Station,7,Saturday,14.25,4.7,3.4,1.5,Rainy,0
+897,Downtown,Residential Area,22,Saturday,18.77,4.3,4.2,1.7,Clear,0
+898,Downtown,Airport,22,Thursday,27.45,3.3,3.4,2.0,Rainy,0
+899,Downtown,Airport,2,Monday,22.18,3.6,4.1,1.9,Rainy,1
+900,Railway Station,Mall,3,Sunday,14.53,3.1,4.4,1.4,Clear,0
+901,Railway Station,Residential Area,14,Sunday,17.99,4.9,3.4,1.3,Rainy,0
+902,Downtown,Residential Area,5,Monday,31.98,4.3,4.0,1.0,Stormy,0
+903,Residential Area,Airport,14,Saturday,11.85,4.5,3.9,1.3,Foggy,0
+904,Mall,Downtown,20,Tuesday,6.55,3.6,3.1,2.4,Rainy,1
+905,Mall,Mall,2,Tuesday,13.21,4.7,4.6,1.5,Clear,0
+906,Airport,Residential Area,20,Monday,34.13,3.5,3.7,1.9,Foggy,1
+907,Residential Area,Airport,20,Tuesday,4.47,3.0,4.1,2.2,Foggy,1
+908,Railway Station,Residential Area,13,Friday,39.68,3.8,4.0,2.8,Rainy,1
+909,Downtown,Mall,19,Thursday,22.1,4.1,4.0,2.8,Stormy,0
+910,Airport,Mall,13,Thursday,39.41,4.0,3.2,2.5,Rainy,0
+911,Mall,Railway Station,3,Monday,37.62,4.7,3.8,1.1,Stormy,1
+912,Railway Station,Airport,11,Wednesday,18.66,3.2,3.9,2.2,Foggy,1
+913,Railway Station,Mall,16,Saturday,8.74,4.1,4.5,2.6,Rainy,1
+914,Downtown,Railway Station,6,Monday,7.43,4.0,4.7,1.0,Clear,0
+915,Mall,Railway Station,8,Tuesday,10.36,3.6,4.1,2.1,Rainy,0
+916,Residential Area,Residential Area,2,Saturday,28.7,4.6,3.2,2.7,Stormy,1
+917,Railway Station,Residential Area,12,Wednesday,11.65,4.5,3.5,1.9,Stormy,0
+918,Downtown,Railway Station,14,Tuesday,14.32,4.5,3.3,1.0,Rainy,1
+919,Residential Area,Residential Area,17,Sunday,18.5,4.8,3.2,1.0,Stormy,1
+920,Mall,Mall,18,Friday,36.62,4.4,3.7,1.8,Foggy,0
+921,Railway Station,Downtown,0,Tuesday,8.39,3.5,3.5,1.3,Rainy,1
+922,Residential Area,Mall,5,Friday,1.2,4.4,3.4,2.3,Stormy,0
+923,Residential Area,Railway Station,22,Saturday,3.34,3.6,3.1,2.4,Rainy,1
+924,Residential Area,Railway Station,1,Friday,36.29,3.5,3.0,1.4,Rainy,0
+925,Railway Station,Mall,23,Saturday,26.25,3.1,3.2,2.8,Clear,0
+926,Railway Station,Residential Area,13,Saturday,11.65,4.5,3.3,1.9,Rainy,0
+927,Airport,Residential Area,5,Saturday,7.91,4.4,3.9,1.3,Clear,0
+928,Mall,Railway Station,13,Saturday,12.48,3.5,4.0,2.5,Stormy,1
+929,Downtown,Airport,3,Saturday,5.48,4.5,3.3,2.6,Clear,1
+930,Residential Area,Residential Area,20,Tuesday,37.72,4.8,3.8,2.3,Clear,0
+931,Airport,Mall,7,Saturday,31.58,3.2,3.7,2.7,Clear,0
+932,Downtown,Residential Area,2,Tuesday,19.03,3.5,3.4,2.5,Foggy,0
+933,Airport,Mall,18,Saturday,34.73,4.5,3.0,2.8,Clear,1
+934,Railway Station,Railway Station,13,Friday,10.73,3.5,3.9,1.9,Rainy,1
+935,Residential Area,Residential Area,19,Sunday,28.97,4.2,4.4,2.5,Clear,1
+936,Downtown,Mall,16,Saturday,34.39,3.2,3.5,3.0,Rainy,0
+937,Downtown,Railway Station,7,Wednesday,14.91,3.9,3.3,2.4,Clear,0
+938,Downtown,Airport,23,Saturday,30.54,4.5,4.8,1.2,Foggy,0
+939,Downtown,Mall,13,Saturday,12.51,4.4,3.6,2.0,Stormy,1
+940,Downtown,Airport,5,Friday,12.66,4.6,3.4,2.2,Clear,1
+941,Airport,Airport,22,Thursday,5.18,4.8,4.7,1.3,Clear,0
+942,Residential Area,Downtown,21,Friday,18.16,4.5,4.6,2.9,Foggy,1
+943,Railway Station,Residential Area,15,Wednesday,29.46,4.3,3.9,1.4,Clear,0
+944,Railway Station,Mall,18,Thursday,37.67,3.1,4.0,1.4,Rainy,1
+945,Railway Station,Airport,13,Monday,24.55,4.1,3.4,2.8,Clear,0
+946,Railway Station,Downtown,18,Monday,34.66,3.1,3.2,1.9,Clear,0
+947,Airport,Railway Station,2,Wednesday,33.08,4.6,4.1,1.1,Stormy,1
+948,Mall,Mall,9,Friday,7.76,3.6,3.2,2.2,Stormy,0
+949,Residential Area,Airport,18,Tuesday,19.95,4.1,3.9,2.2,Clear,1
+950,Downtown,Residential Area,8,Wednesday,5.56,3.6,4.9,1.1,Foggy,1
+951,Mall,Downtown,19,Sunday,27.6,4.6,4.9,2.9,Stormy,1
+952,Railway Station,Airport,12,Thursday,38.05,4.8,3.5,2.1,Clear,1
+953,Mall,Residential Area,6,Thursday,6.35,3.8,4.2,2.1,Stormy,1
+954,Residential Area,Airport,13,Saturday,29.62,4.7,3.9,2.0,Clear,0
+955,Downtown,Mall,8,Monday,25.66,3.5,4.8,2.2,Stormy,1
+956,Downtown,Mall,22,Thursday,23.76,4.1,3.5,1.5,Stormy,1
+957,Residential Area,Mall,18,Wednesday,16.21,4.7,3.0,1.6,Rainy,0
+958,Residential Area,Downtown,14,Thursday,14.85,3.7,3.3,2.0,Clear,1
+959,Railway Station,Mall,19,Wednesday,2.76,4.9,3.7,2.6,Clear,1
+960,Downtown,Residential Area,13,Tuesday,9.5,3.2,3.6,1.1,Clear,0
+961,Mall,Airport,23,Saturday,1.59,3.0,4.6,2.2,Clear,1
+962,Airport,Railway Station,5,Monday,23.68,4.8,4.4,2.6,Stormy,1
+963,Airport,Residential Area,20,Thursday,5.13,3.1,3.6,1.3,Rainy,1
+964,Residential Area,Residential Area,3,Wednesday,35.05,5.0,3.9,1.0,Rainy,1
+965,Railway Station,Mall,7,Friday,21.4,4.9,3.2,1.6,Foggy,0
+966,Airport,Downtown,16,Monday,28.29,3.3,4.8,2.2,Clear,1
+967,Downtown,Airport,8,Tuesday,17.02,4.1,4.9,1.3,Foggy,0
+968,Residential Area,Downtown,0,Wednesday,22.86,3.4,5.0,1.9,Stormy,0
+969,Mall,Airport,23,Sunday,37.76,3.9,4.7,2.1,Foggy,0
+970,Residential Area,Airport,19,Sunday,4.23,3.1,3.3,2.2,Clear,0
+971,Mall,Downtown,13,Saturday,10.9,3.4,3.1,1.5,Rainy,1
+972,Residential Area,Residential Area,10,Saturday,31.42,3.7,4.2,1.8,Rainy,1
+973,Residential Area,Airport,20,Tuesday,4.85,3.9,4.8,2.6,Clear,1
+974,Residential Area,Downtown,2,Tuesday,3.95,5.0,3.4,2.9,Stormy,1
+975,Mall,Airport,8,Saturday,15.1,4.6,3.0,2.7,Clear,1
+976,Mall,Railway Station,13,Thursday,4.59,4.5,4.6,2.1,Stormy,1
+977,Residential Area,Residential Area,8,Thursday,23.82,4.1,3.2,1.8,Rainy,1
+978,Airport,Mall,3,Wednesday,9.82,4.7,3.8,1.7,Stormy,0
+979,Railway Station,Airport,3,Friday,35.93,3.7,4.4,1.2,Clear,1
+980,Railway Station,Railway Station,7,Wednesday,31.56,4.4,3.5,1.2,Clear,1
+981,Railway Station,Mall,1,Friday,28.29,5.0,3.2,2.4,Clear,1
+982,Mall,Mall,8,Tuesday,25.06,3.6,4.5,1.5,Stormy,1
+983,Mall,Airport,13,Monday,34.68,4.3,4.3,1.5,Stormy,1
+984,Airport,Downtown,21,Wednesday,9.7,4.7,5.0,3.0,Stormy,1
+985,Railway Station,Airport,8,Wednesday,35.05,4.8,3.7,1.4,Rainy,0
+986,Railway Station,Railway Station,23,Friday,31.79,4.4,3.1,1.3,Foggy,1
+987,Residential Area,Mall,22,Tuesday,30.18,3.6,4.5,1.2,Foggy,0
+988,Mall,Airport,15,Tuesday,22.89,3.7,4.0,2.2,Clear,0
+989,Railway Station,Downtown,16,Sunday,10.6,3.0,3.4,2.3,Rainy,1
+990,Airport,Airport,15,Friday,17.52,4.5,4.6,1.7,Stormy,1
+991,Airport,Residential Area,11,Tuesday,31.95,3.1,3.4,2.1,Clear,0
+992,Railway Station,Downtown,2,Saturday,2.24,4.7,3.5,2.6,Rainy,0
+993,Mall,Railway Station,10,Thursday,31.5,3.2,3.2,2.6,Clear,1
+994,Airport,Mall,13,Sunday,10.36,3.3,3.8,2.9,Rainy,1
+995,Residential Area,Airport,17,Saturday,6.63,4.0,3.8,2.6,Rainy,1
+996,Airport,Downtown,20,Monday,5.51,4.5,4.0,2.1,Foggy,0
+997,Downtown,Residential Area,20,Wednesday,2.06,3.3,4.4,1.4,Clear,1
+998,Downtown,Downtown,4,Sunday,21.42,3.9,4.8,1.2,Stormy,0
+999,Mall,Residential Area,15,Monday,9.51,4.0,3.3,1.1,Foggy,0
+1000,Railway Station,Railway Station,19,Wednesday,39.59,3.4,3.1,2.3,Foggy,1
